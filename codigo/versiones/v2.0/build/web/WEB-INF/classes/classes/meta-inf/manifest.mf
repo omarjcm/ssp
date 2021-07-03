@@ -1,0 +1,647 @@
+Manifest-Version: 1.0
+
+Name: com/sybase/jdbc/Capture.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 3px/pkXVdAJDp3snha5IHRk+Mj8=
+MD5-Digest: gluRPlo/NV7pXVa20LDaqQ==
+
+Name: com/sybase/jdbc/CharsetToUniInputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: UKH1QhdjNlrd/i3XQCfeiaLMcho=
+MD5-Digest: QchZqE1fyos3WDzTpOZuZA==
+
+Name: com/sybase/jdbc/Const.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: rSMTza85mitlkAcFuKc6nHmeZgk=
+MD5-Digest: VUv1M90gmm4IYcRhtoevdw==
+
+Name: com/sybase/jdbc/Convert.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: lFAMtHfQ6WXyRHpu19xe+lb40h8=
+MD5-Digest: hOfwn2AG1qhWkCXlf7iQdA==
+
+Name: com/sybase/jdbc/Cursor.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: et5WEOIJXrQasxWqxjW8NaRitYc=
+MD5-Digest: QMclMiqKx+kJKWZ3VwE3SQ==
+
+Name: com/sybase/jdbc/EedInfo.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: NtKL/Hw7lIx02TVq/yRFxzEUMUA=
+MD5-Digest: axvsnGDR8VU+bB/8M+uohg==
+
+Name: com/sybase/jdbc/ErrorMessage.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: d+zc/lGJivwTAgGl5uVwbPegZJ4=
+MD5-Digest: Ijnsbi41NcAzVlDBxHrkag==
+
+Name: com/sybase/jdbc/Escape.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: UBkvNoqmPE+guSQo843UjMntQaY=
+MD5-Digest: KRV7+RsKxs9VpA8BYNM30w==
+
+Name: com/sybase/jdbc/EscapeTokenizer.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Wv+vngIQEm4aCbAIpmHdzgxBP+w=
+MD5-Digest: KQRGyJLMa9ygAMqQMm+ZCQ==
+
+Name: com/sybase/jdbc/JdbcDataObject.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: wfJZX+5SAmCH0EE0v9I9JhM1OKg=
+MD5-Digest: 8vtnSgsgqVkslx9UFthwkw==
+
+Name: com/sybase/jdbc/MdaManager.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ExyFav8z8LlaugoWMy3K2NsbhZ0=
+MD5-Digest: Lk3SEsn1xfxdj3wieDVcjA==
+
+Name: com/sybase/jdbc/MetaDataAccessor.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 2oXuUye8oAzDFGbOyVwxDjL/M8w=
+MD5-Digest: wvr5QS7IGg+RrVQVroNBwQ==
+
+Name: com/sybase/jdbc/PadByteInputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: wlzclmSmOfG3oLVDvnFSymoRgfo=
+MD5-Digest: bE/hHypSptgR+43LfUX2qQ==
+
+Name: com/sybase/jdbc/Param.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: VYn1Msc6uUy2glgiKFG+6WfTQyA=
+MD5-Digest: n71+PPaSCphuv0wZBIXKkA==
+
+Name: com/sybase/jdbc/ParamManager.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Ykm4YNTRH8xgC4HtgyUK6JWh1/0=
+MD5-Digest: Rx+hUn1iIR7+1CFTwG618Q==
+
+Name: com/sybase/jdbc/Protocol.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 9rdBN8OiuktZ2s6/i78RVem2ejQ=
+MD5-Digest: hhvn0nfD0sz0TEc1S5TgQg==
+
+Name: com/sybase/jdbc/ProtocolContext.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: oiCiQ1tRGSJQZ34nGDb6gmKzcRE=
+MD5-Digest: MG5Uz0Iie6/2HsYimqeugA==
+
+Name: com/sybase/jdbc/ProtocolManager.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: tGwULkbaR0ESQqfl7QhXRw45Z64=
+MD5-Digest: PEX4anzHlH2ylxSoS3pQgQ==
+
+Name: com/sybase/jdbc/ProtocolResultSet.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: zwMjBKuJ1xyBFDlBGmw+ZVFeOFY=
+MD5-Digest: gQTvoa87hPFARp5po6KPnA==
+
+Name: com/sybase/jdbc/RawInputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: EwemkYfWCk2IqqBbdmQAmYT9NfU=
+MD5-Digest: jkSgt1n5NhjeVi+g1RB1BQ==
+
+Name: com/sybase/jdbc/RawToAsciiInputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: pR7TNEGo54sTcVbHZRkaZufN8+A=
+MD5-Digest: a1yXTJLHV8l9D1NEphEUsQ==
+
+Name: com/sybase/jdbc/resource/Messages.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Dv1LUeXHNexmsLTjEzxDEz/d5Yo=
+MD5-Digest: V1ayEJxm0a5uf8pvtxRKjQ==
+
+Name: com/sybase/jdbc/resource/Messages_de.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 1JD37l4QbzmSboel3X6se84uvvI=
+MD5-Digest: grIDPRzb+CliEwU+vcvwYg==
+
+Name: com/sybase/jdbc/resource/Messages_fr.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ge/mnj5ug0lH529WkK4BWcT0eX4=
+MD5-Digest: DjXUMWpRcBjRQFvNdDTSvw==
+
+Name: com/sybase/jdbc/resource/Messages_ja.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: /2bzd+f9P/CAHrt+yQGlCCnm7Dc=
+MD5-Digest: cX4iFq78AvxPzscW0V9GeA==
+
+Name: com/sybase/jdbc/ResultGetter.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 9dsiiyj5+HpB2aT25Dz3aJnHNkU=
+MD5-Digest: KqKUQ9zDvz0SaBdZ/3GL4w==
+
+Name: com/sybase/jdbc/SybCallableStatement.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: vVZDChLJUFS5+1wWpFNInTCG3kY=
+MD5-Digest: +2ujMv+dT5susy4eoO3U0Q==
+
+Name: com/sybase/jdbc/SybConnection.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: UTEUkuDW3Q0gqn5Rufl67rcmdmw=
+MD5-Digest: hpIvZTpdfjhVpfLyHEw+JA==
+
+Name: com/sybase/jdbc/SybCursorResultSet.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: +nPYnWJFGSsTFdRE4MxCrKgtvPM=
+MD5-Digest: T6e/xI5pyudwkOb9LR1fqQ==
+
+Name: com/sybase/jdbc/SybDatabaseMetaData.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: BN20gdJ3FH527nJGc/bQ0TNaue0=
+MD5-Digest: xg3l31z4jOF/7kRlWbja/g==
+
+Name: com/sybase/jdbc/SybDriver.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: MawSNFu7mrfctPioz54OrnyQeFY=
+MD5-Digest: FxAVO1xUBgwp1AUOnq+wUg==
+
+Name: com/sybase/jdbc/SybDriverKey.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: FO04oEIrLvi1zuchOLEXD048hUQ=
+MD5-Digest: ToQgP3npeATUYBfNAbKI4Q==
+
+Name: com/sybase/jdbc/SybEventHandler.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: S9fv26HIwL6nTYg3zxZk2AxDtIQ=
+MD5-Digest: bg+y4Sw7rGyKn2fpbrnGWA==
+
+Name: com/sybase/jdbc/SybJndiProvider.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: U/O6rApWBHJFq1lHMxSFzHnlj2U=
+MD5-Digest: lTq4KwXhvlWSY/FLrlWViw==
+
+Name: com/sybase/jdbc/SybKey.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 9p+2ThFt9Fl0qJdKbhGkAkyHF5k=
+MD5-Digest: xvMgcrqOXhYLFtslPa3DGw==
+
+Name: com/sybase/jdbc/SybLiteral.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: eQzjOsFRepUZ8nMZdW6IzrkDLN0=
+MD5-Digest: HY16/kSc2qCpv6UC4Q9jQg==
+
+Name: com/sybase/jdbc/SybMessageHandler.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ZQDAU9OOlmSmGBHxZ8TnJ58OkAQ=
+MD5-Digest: tUgnPQc4pmkZM3IKrtpgnw==
+
+Name: com/sybase/jdbc/SybPreparedStatement.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: O3UZ96X9iYip6NS6/A2nYgqwSOQ=
+MD5-Digest: ejyzZ0mh2bmsqu9mrWTsnQ==
+
+Name: com/sybase/jdbc/SybProperty.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: KR0OYXvzFSYWzuTQLQPbUSKw7vM=
+MD5-Digest: hw2HFQW6ThVSk81XUCfSlA==
+
+Name: com/sybase/jdbc/SybResultSet.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Nd15+27n97x6eWTBTpUMETx1grg=
+MD5-Digest: zJCbEHfxQVyvG/6KmtOU/Q==
+
+Name: com/sybase/jdbc/SybSQLException.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 1X4Bvd2ZbfqfxtOOphgM7Vh44yE=
+MD5-Digest: LnM5HPyDpACuSxaMDI+NEg==
+
+Name: com/sybase/jdbc/SybSQLWarning.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: +ps5AJDBdRSpwHeWnyAxYq+CQwk=
+MD5-Digest: gD087PqHeyky3wNms/qybA==
+
+Name: com/sybase/jdbc/SybStatement.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: yon3Yyo8wm6g6oIQiRHaC4zXEps=
+MD5-Digest: xXxXNLeWh7/0S49qJoZ4aA==
+
+Name: com/sybase/jdbc/SybUrlManager.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: cNavYAG+yFByB/HX+7/lbyRU4Bo=
+MD5-Digest: Q0riIvwsW4GCiH7pENO9AA==
+
+Name: com/sybase/jdbc/SybUrlProvider.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Zuia52J4zYXK4cFrogwQ4TU/kXQ=
+MD5-Digest: 57/E4Y5sFCD+FC5I/TmnCA==
+
+Name: com/sybase/jdbc/TextPointer.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: qYgrmJv8muYjSWhkjgTvFmRIcqE=
+MD5-Digest: BEX9+Dswemk7iDWfWzRddw==
+
+Name: com/sybase/jdbc/TraceInputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ooiIvqZ3EWXLZQhJf4UfaDkAcho=
+MD5-Digest: MyvyRDCTlgWFuy4EAqCFGg==
+
+Name: com/sybase/jdbc/TraceOutputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ALSu3gG+7K6yMBkQDfDGl2ZXOVw=
+MD5-Digest: a7spu9cmh2TfG3b2OEepvw==
+
+Name: com/sybase/tds/BlobOutputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 12b7UR/PpsKIuU7U6a6yHD57V/s=
+MD5-Digest: azxXFSkzqZShgFBwKrXLlQ==
+
+Name: com/sybase/tds/CapabilitySet.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 9F3q7fO6fvOkNCIIFXYMXuJ4AhY=
+MD5-Digest: jJ+yzsUa5Ejmr/MUSjCvkw==
+
+Name: com/sybase/tds/CapabilityToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: MBD4KAd7hR3QLWkkXkNZa9Kux50=
+MD5-Digest: KfDMlZA3m+f6z1WtDvlXuQ==
+
+Name: com/sybase/tds/CurCloseToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: WGrvu6+q1NSs1mGXsvBrQpGqwME=
+MD5-Digest: kbn973qMPvTwbFEqF4DqSw==
+
+Name: com/sybase/tds/CurDeclareToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: z2sC0lZPFr5fQY4tHOWl2UQypoU=
+MD5-Digest: 62gFQkSl6h9kT0uBPenxYA==
+
+Name: com/sybase/tds/CurDeleteToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: kI2eIM5Rmktp5Ype8nIZedyZLLw=
+MD5-Digest: NZCusN6SrQfgi0CkE5pj8w==
+
+Name: com/sybase/tds/CurFetchToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: NWpH23gs+3NEkHiV2mQqjw9Aq0E=
+MD5-Digest: f+OtMX0ENG7tD0DFa7qyLg==
+
+Name: com/sybase/tds/CurInfoToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: QscYpnnZz4s1t8v3rDSuEPb+ch8=
+MD5-Digest: 2qQcwJ9CXHlxe3rWqndn+Q==
+
+Name: com/sybase/tds/CurOpenToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: J96L1ozgfAWijpNWNZ/ub1NcsoI=
+MD5-Digest: hHHiJPrsl5Y78aNYng+C7w==
+
+Name: com/sybase/tds/CurUpdateToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: O3IxFnlkOKjpJvw9qag3v2p09vY=
+MD5-Digest: MNe4RPaC4AhmPPAqdgRgMA==
+
+Name: com/sybase/tds/DataFormat.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: DKDQXgbyrXjgf0Lmj377tvB5s6c=
+MD5-Digest: UDnYXv4jCrVhadmocFHSbw==
+
+Name: com/sybase/tds/DbrpcToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: yl4IWbl6qXe6lQQzTXPQ/CRHIe8=
+MD5-Digest: QSOuhT5GeVKZTK+6FaOkxg==
+
+Name: com/sybase/tds/DoneToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Zuz0XF4K4L/aOqJOlKEOHeUDZjQ=
+MD5-Digest: 9QvhTpFuO9x4ChZKJabSnw==
+
+Name: com/sybase/tds/DynamicToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: vRQinRWXBOMo4EukwKCuV++oYes=
+MD5-Digest: NjPM6zCsRIyncLiP3zLawQ==
+
+Name: com/sybase/tds/EedToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: CdzLYZpjD7Z3Yt5O5mxwHThgJgY=
+MD5-Digest: lxHBhDrCLZJTdPXnkrV4qQ==
+
+Name: com/sybase/tds/EnvChangeToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: iY8WY3SeImGf6yhZ05h7WqBQr5Q=
+MD5-Digest: qHSkWUo/m/g2GnOzDx1uzg==
+
+Name: com/sybase/tds/EventThread.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: EcweiRP5tiSB5mQ/LBNoLeCmF5E=
+MD5-Digest: 3/7Y8ItMQB822F2cSpJQHg==
+
+Name: com/sybase/tds/Iana.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: SskxHfqiI2VCiM2Lah5uJq39LEE=
+MD5-Digest: vjddP7KQBFDjmlx96JiqWQ==
+
+Name: com/sybase/tds/KeyToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: i30xtPHYNTRu33AnnlyWuhqhm58=
+MD5-Digest: hexe9JwPsSaqX/GzN6KWQA==
+
+Name: com/sybase/tds/Language.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 3K4a2hs2H+RDx6uuE6TCIiXauM0=
+MD5-Digest: xZ4oh5PRQv8Li7rLvoGp2A==
+
+Name: com/sybase/tds/LanguageToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: V84vAZ/IyIAt6fyG99vTG18UBk8=
+MD5-Digest: PfMCGC9EQCxoR3IK1vfcmg==
+
+Name: com/sybase/tds/LoginAckToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 1YGdvICUxiB5cq02FnZEeTuSKOM=
+MD5-Digest: AKz4sJ8aN3pJWTCT7L6I1w==
+
+Name: com/sybase/tds/LoginToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: qanNKg8cEPyDsNzkUUHlIPlF+9I=
+MD5-Digest: A0vvs5aVdXUDPW+WYL3eUg==
+
+Name: com/sybase/tds/LogoutToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 2IlTuYQ/Z16h+M9DBiasJAaqyns=
+MD5-Digest: ge94Lp/lSRMQU5iY4qxKeA==
+
+Name: com/sybase/tds/ParamFormatToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: +REgSqQexAFNmiz02om/Y/x3FaI=
+MD5-Digest: ydPa4BUtoHC8zos/kSgNeQ==
+
+Name: com/sybase/tds/ParamsToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: iDqSYfHMlcjs+3gi5FXgUsY2LEQ=
+MD5-Digest: XlsTtSh55W/k29ksQCrYmg==
+
+Name: com/sybase/tds/PduInputFormatter.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: J9WMiXpIHOO4WL2g0cTSbcWdFTg=
+MD5-Digest: 6wVy/q5ETQj1OjXHkTJHdQ==
+
+Name: com/sybase/tds/PduOutputFormatter.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: uLu2MMnxYNbj5joGQNw5ZHt0Hb4=
+MD5-Digest: VYHh0tDsCYfp/0LDb7KZng==
+
+Name: com/sybase/tds/RowFormatToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: hgr2agg1bm7AUIWNAFcHIV0Qx9I=
+MD5-Digest: DChOGNOSxvWpXCU5cnAVgw==
+
+Name: com/sybase/tds/RowToken.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: XR2xOnqfpa55cLpZFuvK+cp+fqY=
+MD5-Digest: Fau4JvmeZXUn7PKC9EFzVg==
+
+Name: com/sybase/tds/Slurp.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: M9255j23gg92I1l90YNsmXBxgu8=
+MD5-Digest: ZVa3nMguYcoOIHAw5sHOlQ==
+
+Name: com/sybase/tds/Tds.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: IdUEkxiO5pTUShIpOm0TdTn3wyE=
+MD5-Digest: M3JM7hrUkewHFVKXmyCm4A==
+
+Name: com/sybase/tds/TdsCursor.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: gX2THGtze39foH0uR8+I9WxiLQE=
+MD5-Digest: aDEgvTjKB4sIflU7+KXP8w==
+
+Name: com/sybase/tds/TdsDataInputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Q599ZRvRWaVvqay4EvvK/vWBz/8=
+MD5-Digest: bxtVn2TilVxXgJYqKJF1zQ==
+
+Name: com/sybase/tds/TdsDataObject.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 34W7QCo6KsTXdTFYLzkMQuZUzNY=
+MD5-Digest: zfBBW9O1aj59737Onab9CQ==
+
+Name: com/sybase/tds/TdsDataOutputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: OFcVc9UZR17Psdh6/OAWVRPqX/4=
+MD5-Digest: Mj3Z15jj/Zuzb60TpGlvMw==
+
+Name: com/sybase/tds/TdsDateTime.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: vd860XupxMWKCJMjXBL4rUYk6UM=
+MD5-Digest: dQp1yDyTquErdXsqAlTXJg==
+
+Name: com/sybase/tds/TdsEventContext.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: jx2FAW9FZIGMY1Ntt1yRmkLi5Gk=
+MD5-Digest: 789/vw+hC9YYPVL8/g+5pw==
+
+Name: com/sybase/tds/TdsInt.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: fekKsy0+uauooH5j2SCnoZnOJe4=
+MD5-Digest: rYmFw12oYhEIkHBlYQ+oDg==
+
+Name: com/sybase/tds/TdsJdbcInputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: C3nS0yLlTtlZO3Y1NvgALvUOHCY=
+MD5-Digest: n1r2tzc4DMlIYi8DeGPUfg==
+
+Name: com/sybase/tds/TdsNumeric.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: afW58IDyKbubz3iEJMHp3MAMg5w=
+MD5-Digest: 1oAgoaNyoeD+JX3fUECuQQ==
+
+Name: com/sybase/tds/TdsParam.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: gR7xiQy833XslRqXZGQwmwZAoJw=
+MD5-Digest: B200KWOmQZyWUJjO7WSK0A==
+
+Name: com/sybase/tds/TdsParamSet.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: QuPFyq7DNJzIwz4kBkLhgXHiT3M=
+MD5-Digest: fUuXQN196FI49iykuSJA+g==
+
+Name: com/sybase/tds/TdsProtocolContext.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: pvn6NjKkdfhsuJmTmyU5YkjKgNM=
+MD5-Digest: HJVskCfoaDekXfSOSevFQw==
+
+Name: com/sybase/tds/TdsReal.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Sm3y6LgCm/jvhpJEAZFqQeaw+u4=
+MD5-Digest: dXpsJKHzenMJ/HtOOWDtNg==
+
+Name: com/sybase/tds/TdsResultSet.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 6ROUOIZ22H834R5FORXjXK03/bg=
+MD5-Digest: 7TE8DyXeZNdrbde6fcPZyQ==
+
+Name: com/sybase/tds/TdsUpdateParam.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: yr5DXTYQcCicM5WAO9AR0M7BeuI=
+MD5-Digest: xbT+nor8ZjjyiAx4YQ/Gqw==
+
+Name: com/sybase/tds/Token.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: UHD+jYCQWs8+sfuUpLnsMMs+hts=
+MD5-Digest: wm/7fh10Q9jA9YeaWrAJGg==
+
+Name: com/sybase/timedio/Dbio.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: mxFk0zGY1NhAa41AV9hAwU/Wm3s=
+MD5-Digest: pYuBZCINY6dggtetticqgQ==
+
+Name: com/sybase/timedio/InStreamMgr.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: LL1cehvZnwsPMDCqeDZBnkLaKfQ=
+MD5-Digest: tRdYtEUn1LVqq1fFrxOBgA==
+
+Name: com/sybase/timedio/OutStreamMgr.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: XF0TaROanlUCqIKs/4nedarcmX4=
+MD5-Digest: zgRBOssHiaWYjY7GT7gmDA==
+
+Name: com/sybase/timedio/RawDbio.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: BQvdS65YV+v8Siy1P3mQzpA7W3M=
+MD5-Digest: xVBQ8kw/YHuWnov8LbFsIQ==
+
+Name: com/sybase/timedio/RequestObj.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 3cqdnKxlGIgQ6ycqkw09ByFfhjU=
+MD5-Digest: bRlfR/VVAIXhyFO+WgSyRg==
+
+Name: com/sybase/timedio/ResponseQueue.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 9prz3wEneQKsX+4Gp5fV+VMza+M=
+MD5-Digest: zZl6wNP71yUoILGRNhzesA==
+
+Name: com/sybase/timedio/SSLDbio.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: PbYgy5sB0gBMkbO5wZNsKUUY1XQ=
+MD5-Digest: 4uza0NZ+I43qfIVg664u9Q==
+
+Name: com/sybase/timedio/StreamContext.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: pNPuwFCnAUzlWE6yynfV8v/cr4I=
+MD5-Digest: cC4QpeYmmLjG+n7AipiMdA==
+
+Name: com/sybase/timedio/TDSTunnellingIS.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 2VD4RTQijYl1MFSe0Z41iKxy3XQ=
+MD5-Digest: YtYOFcMNXe1o+QUNzttK4g==
+
+Name: com/sybase/timedio/TDSTunnellingOS.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: XM9GoMI3u1ROGF9bszYdQL6PSA0=
+MD5-Digest: T+lkLZrrl7MXW0kvHUALCg==
+
+Name: com/sybase/timedio/URLDbio.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Q1SWht4JjrUhERmfI1mV09aI8Bg=
+MD5-Digest: raXc+boSwVz6f/oN30HDRw==
+
+Name: com/sybase/utils/AsciiInput.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Fp6/gzrzouXPOjndDghUJO9wtHI=
+MD5-Digest: ebkoZL/BN5MiuavTRIWqjw==
+
+Name: com/sybase/utils/BufferInterval.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Koe4cECCJMet/YO03hr6g0OvFbE=
+MD5-Digest: ukRVz49CsLZ2+7+mQBfimg==
+
+Name: com/sybase/utils/BufferPool.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: wmuZZgbEFfr/TRP/4rQYRjRsZ7I=
+MD5-Digest: sHgvTTQ+NcBL1w4ikMjKfw==
+
+Name: com/sybase/utils/Cacheable.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: fR+IRIgdIb17aT6yQHel3Rrl6jU=
+MD5-Digest: oYcrguNiBXsLQ4jNCLUgkw==
+
+Name: com/sybase/utils/CacheableInputStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: roeKepYGT7Y4BnNNdUzGLDBhp1E=
+MD5-Digest: L3noFzF20KFog1rJ0XnxJQ==
+
+Name: com/sybase/utils/CacheChunk.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: JIKLK+R/Tpn0SR/nIJahElMaohM=
+MD5-Digest: 8ZGwxdSBGvM7c7sawIWoQw==
+
+Name: com/sybase/utils/CacheManager.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: WYBpm1ls+LUuIPFj1LJ2lK0Y964=
+MD5-Digest: +dglu9SKDjSn3zdZ/JoN6Q==
+
+Name: com/sybase/utils/CacheStream.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: MAatKLDCYDd2OABL6Z/oT2ZFxFw=
+MD5-Digest: Dl3wKuyYtpbUUCg4SP9o2g==
+
+Name: com/sybase/utils/Chainable.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: uZtwrbnsTOrL8JjckkwD19uf7M4=
+MD5-Digest: XbZYYf/I3gPdg0UuBvZJGQ==
+
+Name: com/sybase/utils/CharsetConverter.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: DxYXFYLLojJr2IrEChI/pi97OJo=
+MD5-Digest: z6KbLyC1TouhU8+gtg2MeQ==
+
+Name: com/sybase/utils/Debug.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: HE9SotOFpCXzGged/zQxqGCccB8=
+MD5-Digest: AsgJABz3qU3bxF/mYvd4Vg==
+
+Name: com/sybase/utils/HexConverts.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: OJshZgPs+HaPruSd7OD3N6X2MWs=
+MD5-Digest: 8ll/49Pu8ig9WUdyTMw/sg==
+
+Name: com/sybase/utils/Misc.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: u6cZH05UUt+eBoR2GogwoP4RSV4=
+MD5-Digest: YbS0F7pVDP6r4BjTC1kdxw==
+
+Name: com/sybase/utils/PureConverter.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: vzHKLQ1b3EWQ7YfV0rDoFvgTFHk=
+MD5-Digest: yCGBha8jq1Jczd4N/Ijw2Q==
+
+Name: com/sybase/utils/Queue.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Wq/XBT9zN69mb1ESOAP9oC2nIwA=
+MD5-Digest: gyzLhr04wyakA/SQV4rZgg==
+
+Name: com/sybase/utils/resource/Messages.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 4pFMk7BAj26PdjAjnwV9agpPt6Y=
+MD5-Digest: Fo55VtUmtRCuDviF8hCS7Q==
+
+Name: com/sybase/utils/resource/Messages_de.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: HIdXXHhbzKSVi6W615u3auVX4xg=
+MD5-Digest: ye2qiKI7SHZdzpL6b/Qg4Q==
+
+Name: com/sybase/utils/resource/Messages_fr.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: KJR/s/JwjwPs3JSd4GhkLr5wzeY=
+MD5-Digest: ebPvz4AiCY/mvwhJgalU9g==
+
+Name: com/sybase/utils/resource/Messages_ja.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: VZLTadk0vPiyO47Lmw8VvpLbc+8=
+MD5-Digest: tksyDF/M1fOJfZOZXXDN7g==
+
+Name: com/sybase/utils/SyncObj.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: LZqDJaCiz3jbDcgRP11a/J0RuDQ=
+MD5-Digest: JcnJtIW7JD5Yd88C7hm9gA==
+
+Name: com/sybase/utils/SyncQueue.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: cYNgBKRl8XhHLE0XzAafnpzam+w=
+MD5-Digest: NXxgpGNz3ljOEV8jhpLDng==
+
+Name: com/sybase/utils/TruncationConverter.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: SfooMmWRzJWtqgjsRAw83hfxizQ=
+MD5-Digest: jlQh8Qp9g7uGgmW9tDa92w==
+

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   version="1.0"
+   sodipodi:docbase="C:\Users\Administrator\Desktop\SSP_Proyecto\SSP_IHM\Banner"
+   sodipodi:docname="Banner_v1.0.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14724">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop14726" />
+      <stop
+         style="stop-color:white;stop-opacity:0;"
+         offset="1"
+         id="stop14728" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10983">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop10985" />
+      <stop
+         style="stop-color:white;stop-opacity:0;"
+         offset="1"
+         id="stop10987" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9188">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop9190" />
+      <stop
+         style="stop-color:white;stop-opacity:0"
+         offset="1"
+         id="stop9192" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9162">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop9164" />
+      <stop
+         style="stop-color:black;stop-opacity:0;"
+         offset="1"
+         id="stop9166" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8235">
+      <stop
+         id="stop8237"
+         offset="0"
+         style="stop-color:#6f8fff;stop-opacity:1;" />
+      <stop
+         id="stop8239"
+         offset="1"
+         style="stop-color:#00ffb0;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2780">
+      <stop
+         style="stop-color:#004e80;stop-opacity:0.46031746"
+         offset="0"
+         id="stop2782" />
+      <stop
+         style="stop-color:#004e80;stop-opacity:0;"
+         offset="1"
+         id="stop2784" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2770">
+      <stop
+         style="stop-color:navy;stop-opacity:1;"
+         offset="0"
+         id="stop2772" />
+      <stop
+         id="stop2778"
+         offset="0.5"
+         style="stop-color:#0090a0;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:navy;stop-opacity:0;"
+         offset="1"
+         id="stop2774" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2760">
+      <stop
+         style="stop-color:#6f8fff;stop-opacity:1;"
+         offset="0"
+         id="stop2762" />
+      <stop
+         style="stop-color:#6f8fff;stop-opacity:0;"
+         offset="1"
+         id="stop2764" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2780"
+       id="linearGradient2786"
+       x1="413.60153"
+       y1="23.868816"
+       x2="413.60153"
+       y2="-1.6022451"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-0.983717)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10983"
+       id="linearGradient10989"
+       x1="260.73422"
+       y1="-46.037006"
+       x2="260.73422"
+       y2="-75.828117"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.829678,0,0,0.829678,20.06665,-1.569536)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14724"
+       id="radialGradient14730"
+       cx="664.87854"
+       cy="71.114105"
+       fx="664.87854"
+       fy="71.114105"
+       r="95.420525"
+       gradientTransform="matrix(1.699557,0.22462,-0.179371,1.489639,-447.121,-184.6915)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0165528"
+     inkscape:cx="444.51262"
+     inkscape:cy="459.96043"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="800px"
+     height="600px"
+     inkscape:window-width="1262"
+     inkscape:window-height="736"
+     inkscape:window-x="2"
+     inkscape:window-y="28" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient2786);fill-opacity:1;fill-rule:nonzero"
+       id="rect1872"
+       width="801.73199"
+       height="151.61346"
+       x="0"
+       y="-2.5859618"
+       rx="4.2519908" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#radialGradient14730);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-opacity:0.49468085;stroke-width:0.99967026;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path11006"
+       sodipodi:cx="664.99255"
+       sodipodi:cy="75.187096"
+       sodipodi:rx="95.420525"
+       sodipodi:ry="132.30991"
+       d="M 760.41308 75.187096 A 95.420525 132.30991 0 1 1  569.57203,75.187096 A 95.420525 132.30991 0 1 1  760.41308 75.187096 z"
+       transform="matrix(0.793076,0.720679,-0.710957,0.803921,191.5495,-455.0932)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:white;fill-opacity:0.55319148;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+       id="path11008"
+       sodipodi:cx="739.26318"
+       sodipodi:cy="129.78339"
+       sodipodi:rx="113.61929"
+       sodipodi:ry="115.09486"
+       d="M 852.88248 129.78339 A 113.61929 115.09486 0 1 1  625.64389,129.78339 A 113.61929 115.09486 0 1 1  852.88248 129.78339 z"
+       transform="matrix(0.874459,0,0,0.874459,22.47218,-33.50466)" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.86829567px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Calisto MT"
+       x="21.999117"
+       y="41.696205"
+       id="text2788"
+       sodipodi:linespacing="125%"
+       transform="scale(0.829678,1.205286)"><tspan
+         sodipodi:role="line"
+         id="tspan2790"
+         x="21.999117"
+         y="41.696205"
+         style="font-size:29.86829567px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:white;font-family:Calisto MT">Sistema de Servicios Parroquiales</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8253"
+       y="-51.181763"
+       x="23.258411"
+       style="font-size:31.57809258px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient10989);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Calisto MT"
+       xml:space="preserve"
+       transform="scale(0.784759,-1.274276)"><tspan
+         style="font-size:31.57809258px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient10989);fill-opacity:1;font-family:Calisto MT"
+         y="-51.181763"
+         x="23.258411"
+         id="tspan8255"
+         sodipodi:role="line">Sistema de Servicios Parroquiales</tspan></text>
+    <rect
+       style="opacity:1;fill:#e2e0fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+       id="rect12876"
+       width="802.71289"
+       height="4.9185834"
+       x="-1.0162833"
+       y="146.50656"
+       rx="4.2364159" />
+    <image
+       y="0.16270012"
+       x="592.42737"
+       id="image1912"
+       height="153"
+       width="153"
+       sodipodi:absref="C:\Users\Administrator\Desktop\SSP_Proyecto\SSP_IHM\Logos\g1922.gif"
+       xlink:href="C:\Users\Administrator\Desktop\SSP_Proyecto\SSP_IHM\Logos\g1922.gif" />
+  </g>
+</svg>

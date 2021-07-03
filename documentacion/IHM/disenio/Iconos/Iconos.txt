@@ -1,0 +1,9 @@
+Ingresar
+Buscar
+Modificar
+Anular
+
+acta de bautizo
+acta de confirmacion
+acta de primera comunion
+acta de matrimonio

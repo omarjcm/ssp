@@ -1,0 +1,31 @@
+TAREA: ENTREGA DE PROYECTO- EXAMEN PARCIAL
+
+Estimados todos:
+
+El d?a lunes necesito impreso solo lo siguiente:
+REsumen Ejecutivo
+An?lisis Post mortem sobre la realizaci?n del proyecto (de este semestre )
+Detalle y justificaci?n del cambio del cronograma
+Observaciones de los usuarios
+Informaci?n consolidada de las m?tricas del proyecto
+Documento firmado por el cliente donde indique que ya est? en producci?n la primera
+parte del sistema.
+Conclusiones
+Recomendaciones
+
+Adicionalemente deben de mostrarme:
+Requisitos actualizados
+Dise?o arquitect?nico
+Dise?o detallado
+Est?ndar de programaci?n
+plan de configuraci?n /archivos de documentaci?n y c?digo
+plan de pruebas/resultado de pruebas
+Programa en ejecuci?n
+Todo lo relativo al proyecto que est?n desarrollando.
+
+Saludos,
+M?nica V.
+                           
+Saludos,
+            
+Monica Villavicencio

@@ -1,0 +1,95 @@
+/* CSS Document */
+
+#frame {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+td.header_titulo {
+	font-size: 20px;
+	font:Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	font-weight: bold;
+	background-color: #8AAB45;
+}
+td.header_sub_titulo_01 {
+	font:Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	font-weight: bold;
+	background-color: #E6EED5;
+}
+td.header_sub_titulo_02 {
+	font:Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	font-weight: bold;
+	background-color: #E6EED5;
+} 
+td.header_sub_titulo_03 {
+	font:Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	font-weight: bold;
+	background-color: #E6EED5;
+}
+
+td.informe_01 {
+	background-color: #9BBB59;
+	font-weight: bold;
+	text-align: center;
+}
+td.informe_02 {
+	background-color: #E6EED5;
+	font-weight: bold;
+}
+
+tr.informe_01 {
+	font-weight: bold;
+	background-color: #E6EED5;
+}
+
+.datatable {
+	border: 1px solid #9BBB59;
+	border-collapse: collapse;
+}
+
+.datatable td {
+	border: 1px solid #999999;
+	padding: 2px;
+}
+
+.datatable th {
+	border: 1px solid #828282;
+	background-color: #BCBCBC;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 4px;
+}
+
+.datatable tr.altrow {
+	background-color: #DFE7F2;
+	color: #000000;
+}
+
+#anual {
+	z-index: 0;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:455px;
+	visibility: hidden;
+	height: 56px;
+	top: 364px;
+	left: 280px;
+}
+
+#mensual {
+	z-index: 1;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:455px;
+	visibility: hidden;
+	height: 56px;
+	top: 364px;
+	left: 280px;
+}

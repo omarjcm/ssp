@@ -1,0 +1,21 @@
+01/09/2007
+
+procedure ssp_id_registro
+hora inicio 		16:33
+hora fin		16:40
+
+procedure ssp_id_descripcion
+hora inicio 		16:41
+hora fin		16:44
+
+modificar procedure ssp_insertar_registro
+inicio	17:04	
+fin	17:15
+
+procedure ssp_anio_mes_fecha
+inicio	17:45
+fin	17:54
+
+procedure ssp_consulta_registro_anual
+inicio	17:57
+fin	18:15

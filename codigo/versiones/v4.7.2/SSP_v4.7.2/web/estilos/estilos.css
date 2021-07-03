@@ -1,0 +1,17 @@
+/* CSS Document */
+
+.manito {cursor: hand}
+.tituloPrincipal {font: bold 16px Tahoma, Arial; color: #F2F4F7}
+.tituloPagina {font: bold 14px Tahoma, Arial; color: #3A4961}
+.tituloOpcion {font: bold 12px Tahoma, Arial; color: #3A4961}
+.texto {font: normal 11px Tahoma, Arial; color: #3A4961}
+.tituloConsulta {font: bold 10px Tahoma, Arial; color: #F2F4F7; background-color: #99ADC1}
+.itemConsulta {font: normal 11px Tahoma, Arial; color: 3A4961; background-color: #F2F4F7}
+.tituloLista {font: bold 10px Tahoma, Arial; color: #F2F4F7; background-color: #6B88A5}
+.itemLista {font: normal 11px Tahoma, Arial; color: 3A4961; background-color: #F2F4F7}
+A:link { font: normal 11px Tahoma, Arial; color: #3A4961}
+
+INPUT {font: normal 12px Tahoma, Arial; color: #3A4961}
+TEXTAREA {font: normal 12px Tahoma, Arial; color: #3A4961}
+SELECT {font: normal 12px Tahoma, Arial; color: #3A4961}
+LABEL {font: normal 12px Tahoma, Arial; color: #3A4961}

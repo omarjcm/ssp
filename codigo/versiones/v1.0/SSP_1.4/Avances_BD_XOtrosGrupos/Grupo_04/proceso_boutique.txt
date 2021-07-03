@@ -1,0 +1,85 @@
+//Venta desde el Proveedor --- Boutique
+El Administrador llama o le manda un e-mail al proveedor y le indica que desea comprar mercaderia nueva.
+El Agente de Ventas del Proveedor llama a la Boutique y le indica los dias que va a estar en Guayaquil para separar una cita que permita la
+visualizacion de la mercaderia.
+El encargado de hacer las compras para la Boutique va a la cita y hace un pedido.
+El Agente Vendedor del Proveedor envia el pedido a la matriz y esta a su vez le envia via fax la factura de la compra al cliente(Boutique).
+A partir de ese instante empieza a correr la fecha de pago.
+El Proveedor envia la mercaderia a traves de una embarcadora previamente elejida por el cliente(Boutique) hasta el lugar destino.
+Una vez que la mercancia se encuentra en el lugar destino, es retirada por el cliente(Boutique) en la embarcadora.
+Los empleados reciben la mercaderia y hacen una revision exhaustiva de la  misma(si llego todo o si hay algun desperfecto).
+
+//Ventas desde la Boutique -- Cliente
+Se procede a ingresar en inventario la nueva mercaderia, especificando sus caracteristicas, cantidad disponible para la venta, y el precio de los mismos
+(precio de compra).
+Se pone precio tanto al por mayor como al por menor de los articulos.
+Se le da una muestra de cada uno de los articulos al agente vendedor y este llama a los clientes para que separen una cita y enseñarles
+la mercaderia..
+Segun las citas, el vendedor visita a los clientes y genera los pedidos previamente validados.
+Los pedidos son entregados al empleado de la matriz y este le entrega al despachador para que envie la mercaderia solicitada.
+El despachador revisa si hay lo solicitado en el pedido para despacharlo.
+Se genera una factura a nombre del cliente y si es un cliente nuevo, se le crea una nueva cuenta.
+La mercaderia es entregada en la fecha que el cliente desea.
+Al cliente se le da una cantidad de tiempo para que pague, dependiendo del monto comprado.
+La Boutique envia al engardado de las recaudaciones a los clientes en la fecha de pago especificada por cada uno.(Esto depende
+de lo que hayan quedado de acuerdo el cliente y la empresa).
+La Boutique(el encargado o administrador) solicita a los encargados de contabilidad que le entregen reportes de las ventas
+y de las deudas(sean compras a los proveedores, como pagos a los empleados y gastos) para pagar las deudas adquiridas
+a cada parte y planificar proximas compras, fechas de pago y montos a pagar.
+
+//Caso devolucion
+Si el cliente desea devolver mercaderia, se le debita lo devuelto en la cuenta y aparte se la registra en el inventario.
+
+//Caso cambio
+Si el cliente desea hacer un cambio, se registra el cambio en su cuenta y en el inventario.
+
+//Descuentos
+Se le da un descuento de pronto pago al cliente que paga por adelantado y no a plazos.
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ENTRADAS DE LOS PROCESOS
+
+//Información de la Venta desde el Proveedor --- Boutique
+Información de la factura 
+Datos del Proveedor
+Datos de la embarcadora
+Fecha de envio
+Fecha de llegada
+//Ventas desde la Boutique -- Cliente
+Datos del cliente
+Registro del pedido
+Registro de pago
+Registro de Inventario
+//Devolución de mercadería
+Datos del cliente
+Registrar la mercadería devuelta
+Registro de Inventario
+Registro de Anulación de factura 
+//Cambio de mercadería
+Corrección de Inventario
+//Descuentos en ventas
+Registro de la forma de pago
+Monto del Descuento
+
+SALIDAS DE LOS PROCESOS
+
+//Información de la Venta desde el Proveedor --- Boutique
+Reporte de deudas por mercadería adquirida 
+Reporte de Proveedores visitados
+Reporte de Empacadoras utilizadas
+Reporte de Proveedores estrella 
+//Ventas desde la Boutique -- Cliente
+Reporte de ventas por un periodo de tiempo.
+Reporte de clientes estrella
+Reporte de ventas por cliente en un periodo de tiempo
+//Devolución de mercadería
+Reporte de mercaderia devuelta por cliente en un periodo de tiempo
+Reporte de mercaderia devuelta en un periodo de tiempo
+//Cambio de mercadería
+Reporte de mercaderia cambiada por cliente en un periodo de tiempo
+Reporte de mercaderia cambiada en un periodo de tiempo
+//Descuentos en ventas
+Reporte de facturas con descuento
+
+
+
+

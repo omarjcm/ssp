@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="41.757252"
+   height="37.636253"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="E:\MY PROJECTS\SSP_Proyecto\SSP_IHM\Iconos\simbolos"
+   sodipodi:docname="go-next - Copy.svg"
+   inkscape:export-filename="C:\Users\Administrator\Desktop\Otros\SSP_IHM\simbolos/previous.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3930">
+      <stop
+         style="stop-color:#18b63c;stop-opacity:1;"
+         offset="0"
+         id="stop3932" />
+      <stop
+         style="stop-color:#18b63c;stop-opacity:0;"
+         offset="1"
+         id="stop3934" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5105">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop5107" />
+      <stop
+         style="stop-color:black;stop-opacity:0;"
+         offset="1"
+         id="stop5109" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5113">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop5115" />
+      <stop
+         style="stop-color:white;stop-opacity:0;"
+         offset="1"
+         id="stop5117" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5105"
+       id="radialGradient4354"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.282946,0,13.64644)"
+       cx="11.25"
+       cy="19.03125"
+       fx="11.25"
+       fy="19.03125"
+       r="8.0625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5113"
+       id="linearGradient5315"
+       x1="17.498823"
+       y1="10.445395"
+       x2="34.744495"
+       y2="40.231434"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0046296,0,0,0.9405453,-3.5702966,0.1014211)" />
+    <linearGradient
+       id="linearGradient11282"
+       inkscape:collect="always">
+      <stop
+         id="stop11284"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.86799997" />
+      <stop
+         id="stop11286"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2788">
+      <stop
+         id="stop2790"
+         offset="0.0000000"
+         style="stop-color:#000000;stop-opacity:0.26041666;" />
+      <stop
+         id="stop2792"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11282"
+       id="linearGradient3913"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.781904,2.230769e-2,-1.447595e-2,0.792093,-58.317228,-18.593254)"
+       x1="39.072777"
+       y1="12.679243"
+       x2="48.6469"
+       y2="66.242584" />
+    <linearGradient
+       gradientTransform="matrix(1.004639,0,0,1,-4.037671,-5.462481e-2)"
+       gradientUnits="userSpaceOnUse"
+       y2="42.793934"
+       x2="37.73064"
+       y1="11.133182"
+       x1="16.067961"
+       id="linearGradient2387"
+       xlink:href="#linearGradient5113"
+       inkscape:collect="always" />
+    <radialGradient
+       r="8.0625"
+       fy="19.03125"
+       fx="11.25"
+       cy="19.03125"
+       cx="11.25"
+       gradientTransform="matrix(1,0,0,0.282946,0,13.64644)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient2385"
+       xlink:href="#linearGradient5105"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5113"
+       id="linearGradient2409"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.003216,47.681687)"
+       x1="11.767765"
+       y1="-4.4393449"
+       x2="41.116112"
+       y2="-7.0000062" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666"
+     borderopacity="0.17254902"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.5147442"
+     inkscape:cx="16.267665"
+     inkscape:cy="13.051103"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="39.999619px"
+     height="10.35px"
+     inkscape:showpageshadow="false"
+     showgrid="false"
+     inkscape:window-width="1142"
+     inkscape:window-height="645"
+     inkscape:window-x="99"
+     inkscape:window-y="56" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Go next</dc:title>
+        <dc:date>August 2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:source>http://www.gnome.org</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>next</rdf:li>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>go</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:description />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.924445,-7.9967843)">
+    <rect
+       style="color:#000000;fill:#1ac03f;fill-opacity:1;fill-rule:nonzero;stroke:#32741a;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect4242"
+       width="33.000008"
+       height="4.0000119"
+       x="8.4967842"
+       y="40.181686"
+       transform="matrix(0,1,1,0,0,0)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.16292138;color:#000000;fill:url(#radialGradient4354);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="path4346"
+       sodipodi:cx="11.25"
+       sodipodi:cy="19.03125"
+       sodipodi:rx="8.0625"
+       sodipodi:ry="2.28125"
+       d="M 19.3125 19.03125 A 8.0625 2.28125 0 1 1  3.1875,19.03125 A 8.0625 2.28125 0 1 1  19.3125 19.03125 z"
+       transform="matrix(-2.5825629,0,0,2.2676179,52.800191,-2.6955678)"
+       inkscape:export-filename="C:\Users\Administrator\Desktop\Otros\SSP_IHM\simbolos\forward01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;color:#000000;fill:#1ac03f;fill-opacity:1;fill-rule:nonzero;stroke:#32741a;stroke-width:0.96981215;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 20.113379,9.117655 L 39.117343,24.642318 L 20.113379,40.089166 L 20.113379,32.687231 L 5.1176814,32.687231 L 5.1176814,16.646107 L 20.113379,16.646107 L 20.113379,9.117655 z "
+       id="path4348"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Administrator\Desktop\Otros\SSP_IHM\simbolos\forward01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.35393258;color:#000000;fill:#d6dde4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 5.6072424,17.169261 L 5.6072424,24.648722 L 38.375798,24.626052 L 20.76136,10.193833 L 20.76136,17.169261 L 5.6072424,17.169261 z "
+       id="path4352"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Administrator\Desktop\Otros\SSP_IHM\simbolos\forward01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.35400002;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5315);stroke-width:0.96981215;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 21.040211,11.042955 L 37.556693,24.573897 L 21.040211,37.928981 L 21.040211,31.59124 L 5.9736714,31.59124 L 5.9736714,17.503439 L 21.040211,17.503439 L 21.040211,11.042955 z "
+       id="path4360"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Administrator\Desktop\Otros\SSP_IHM\simbolos\forward01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.35400002;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient2409);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect6697"
+       width="31"
+       height="2.0000019"
+       x="9.4967823"
+       y="41.181679"
+       transform="matrix(0,1,1,0,0,0)" />
+    <rect
+       style="opacity:0.35400002;fill:#729fcf;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6725"
+       width="3"
+       height="16"
+       x="-43.681683"
+       y="8.9967842"
+       transform="scale(-1,1)" />
+  </g>
+</svg>

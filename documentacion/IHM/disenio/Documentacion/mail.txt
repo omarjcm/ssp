@@ -1,0 +1,20 @@
+Estimada Dr. Katherine Chiluiza,
+
+El Proyecto Sistema de Servicios Parroquiales (SSP) es una aplicación web que permititrá realizar el ingreso, modificación, consultas y anulación de Documentos, el mismo es implementado para agilizar el trabajo de la secretaria de la Parroquia.
+
+La página web en cuestión sí realizará lo que Ud. bien ha entendido, aparte de lo que nosotros le manifestamos que haría, también lo otro que nos sugiere.
+
+Para un mejor detalle de lo que va a realizar SSP le enviamos el documento Visión del Sistema, además volvemos a puntualizar lo que se va hacer en la página web:
+
+    * Consultas de Actas de Bautizo, Primera Comunión, Confirmación y Matrimonio, si realizó el respectivo sacramento en la Parroquia,
+    * Horario de misas,
+    * petición para Misa,
+    * requisitos para los sacramentos,
+    * calendario de festividades.
+
+Atentamente,
+
+Stephanie Flores,
+Vanessa Izquierdo,
+Freddy Tituana,
+Guillermo Pizarro,

@@ -1,0 +1,99 @@
+/* CSS Document */
+
+#parroquia {
+	z-index: 0;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:499px;
+	visibility: hidden;
+	height: 302px;
+	top: 294px;
+	left: 263px;
+}
+
+#solicitante {
+	z-index: 1;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:499px;
+	visibility: hidden;
+	height: 302px;
+	top: 294px;
+	left: 263px;
+}
+
+#padres_esposo,#padres_esposa {
+	z-index: 2;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:499px;
+	visibility: hidden;
+	height: 302px;
+	top: 294px;
+	left: 263px;
+}
+
+#padrinos {
+	z-index: 3;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:499px;
+	visibility: hidden;
+	height: 302px;
+	top: 294px;
+	left: 263px;
+}
+
+#reg_eclesiastico {
+	z-index: 4;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:499px;
+	visibility: hidden;
+	height: 302px;
+	top: 294px;
+	left: 263px;
+}
+
+#reg_civil {
+	z-index: 5;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:499px;
+	visibility: hidden;
+	height: 302px;
+	top: 294px;
+	left: 263px;
+}
+
+#txt_observacion {
+	z-index: 6;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:499px;
+	visibility: hidden;
+	height: 302px;
+	top: 294px;
+	left: 263px;
+}
+
+#ministro {
+	z-index: 7;
+        text-decoration: none;
+ 	background-color: #FFFFFF;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:476px;
+	visibility: hidden;
+	height: 302px;
+	top: 293px;
+	left: 264px;
+}

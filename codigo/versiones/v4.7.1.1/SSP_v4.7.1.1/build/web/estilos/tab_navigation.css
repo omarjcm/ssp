@@ -1,0 +1,61 @@
+/* Fuente: http://www.simplebits.com/bits/css_tabs.html
+*/
+#container
+	{
+		width: 490px;
+		padding: 30px;
+		border: 1px solid #ccc;
+		border-top: hidden;
+		background: #fff;
+	}
+
+#contenedor
+	{
+		width: 490px;
+		padding: 30px;
+		border: 1px solid #ccc;
+		background: #fff;
+	}
+
+#tabnav
+	{
+		height: 20px;
+		margin: 0;
+		margin-left: 3px;
+		padding-left: 10px;
+		background: url(../imagen/tab_bottom.gif) repeat-x bottom;
+	}
+
+#tabnav li
+	{
+		margin: 10px;
+		padding: 0;
+  		display: inline;
+  		list-style-type: none;
+  	}
+	
+#tabnav a:link, #tabnav a:visited
+	{
+		float: left;
+		background: #f3f3f3;
+		font-size: 12px;
+		line-height: 14px;
+		font-weight: bold;
+		padding: 2px 22px 2px 10px;
+		/*margin-right: 10px;*/
+		border: 1px solid #ccc;
+		text-decoration: none;
+		color: #666;
+	}
+
+#tabnav a:link.active, #tabnav a:visited.active
+	{
+		border-bottom: 1px solid #fff;
+		background: #fff;
+		color: #000;
+	}
+
+#tabnav a:hover
+	{
+		background: #fff;
+	}

@@ -1,0 +1,201 @@
+#enlace {
+	cursor:pointer; 
+	font-weight: bold; 
+	color: #0000FF; 
+	font-size: 10pt;
+}
+
+#pista {
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	font-weight: bold;
+	font-size: 12px;
+	color: #90552d;
+}
+
+#pista_administrador {
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	font-weight: bold;
+	font-size: 12px;
+	color: #006600;
+}
+
+#titulo_paso_administrador {
+	color: #006600; 
+	font-weight: bold; 
+	text-align: right;
+	font-size: 9pt; 
+	line-height: 10pt; 
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; 
+	margin-top: 5px; 
+	margin-right: 6px; 
+	margin-left: 10px;
+}
+
+#pista_secretario {
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	font-weight: bold;
+	font-size: 12px;
+	color: #808000;
+}
+
+#titulo_paso_administrador {
+	color: #808000;
+	font-weight: bold; 
+	text-align: right;
+	font-size: 9pt; 
+	line-height: 10pt; 
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; 
+	margin-top: 5px; 
+	margin-right: 6px; 
+	margin-left: 10px;
+}
+
+#pista_contador {
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	font-weight: bold;
+	font-size: 12px;
+	color: #90552d;
+}
+
+a:link, a:active, a:visited {
+	color: #4d4d4d;
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	font-size: 12px;
+}
+
+a:link.visor, a:active.visor, a:visited.visor {
+	color: #4d4d4d;
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	font-size: 12px;
+}
+
+a:hover.visor {
+	color: #ff6500;
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	font-size: 12px;
+}
+
+a:hover {
+	color: #ff6500;
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	text-decoration: underline overline;
+	font-size: 12px;
+}
+
+a {
+	font-size: 12pt;
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+}
+
+td, tr {
+	color: #333333; font-size: 8pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+}
+	
+.default {
+	color: #4d4d4d; font-size: 8pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; 
+}
+
+.etiqueta {
+	text-align: right;
+	color: #666666;
+	font-weight: bold;
+	font-size: 10pt;
+	line-height: 10pt;
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	margin-top: 5px;
+	margin-right: 6px;
+	margin-left: 10px;
+	vertical-align: middle;
+}
+
+.titulo_principal {
+	color: #333333; 
+	font-weight: bold; 
+	font-size: 13pt; 
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; 
+	text-align:center;
+}
+
+#titulo {
+	color: #333333; 
+	font-weight: bold; 
+	font-size: 10pt; 
+	line-height: 10pt; 
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; 
+}
+
+#titulo_paso {
+	color: #333333; 
+	font-weight: bold; 
+	text-align: right;
+	font-size: 9pt; 
+	line-height: 10pt; 
+	font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; 
+	margin-top: 5px; 
+	margin-right: 6px; 
+	margin-left: 10px;
+}
+
+.titulo {
+	color: #333333; font-weight: bold; font-size: 12pt; line-height: 10pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; margin-top: 5px; margin-right: 6px; margin-left: 10px;
+}
+
+
+b { 
+	color: #a9a9a9; font-weight: bold; font-size: 10pt; line-height: 10pt; font-family: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; clear: right; 
+}
+
+li {
+        line-height: 20px; text-indent: -15px; list-style-position: outside; clear: left; margin-left: 0px; padding-left: 0px;
+}
+
+p  { 
+        margin-right: 6px; margin-left: 6px;
+}
+
+.datatable {
+	border: 1px solid #9BBB59;
+	border-collapse: collapse;
+}
+
+.datatable td {
+	border: 1px solid #999999;
+	padding: 2px;
+}
+
+.datatable th {
+	border: 1px solid #828282;
+	background-color: #BCBCBC;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 4px;
+}
+
+.datatable tr.altrow {
+	background-color: #DFE7F2;
+	color: #000000;
+}
+td.informe_02 {
+	background-color: #E6EED5;
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul.info {
+	font: 11px Verdana, Geneva, Arial, Helvetica, sans-serif;
+	list-style-type: square;
+	padding-left: 30px;
+}
+
+ul.info li {
+	font-size: 13px;
+}
+
+#asterisco {
+	color:#CC0000;
+}

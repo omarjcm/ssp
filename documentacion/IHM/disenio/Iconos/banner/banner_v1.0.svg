@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="805.00568"
+   height="150"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="C:\Users\Administrator\Desktop\Otros\SSP_IHM\banner"
+   sodipodi:docname="banner_v1.0.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="C:\Users\Administrator\Desktop\Otros\SSP_IHM\banner\banner_v1.0.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3170">
+      <stop
+         style="stop-color:#784421;stop-opacity:1;"
+         offset="0"
+         id="stop3172" />
+      <stop
+         style="stop-color:#784421;stop-opacity:0;"
+         offset="1"
+         id="stop3174" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3170"
+       id="linearGradient4149"
+       x1="176.85474"
+       y1="-115.72313"
+       x2="176.85474"
+       y2="-40.734413"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       x="-0.01195118"
+       width="1.0239024"
+       y="-0.12519193"
+       height="1.2503839"
+       id="filter8922">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.7270881"
+         id="feGaussianBlur8924" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       x="-0.30844659"
+       width="1.6168932"
+       y="-0.59261948"
+       height="2.1852391"
+       id="filter12948">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="17.554178"
+         id="feGaussianBlur12950" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1664514"
+     inkscape:cx="405.66028"
+     inkscape:cy="98.985492"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="805.00568px"
+     height="150px"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.9698737,1.0011161)">
+    <rect
+       style="opacity:0.69434791;fill:#dde9af;fill-opacity:0.81005584;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8926"
+       width="800.96539"
+       height="148.5343"
+       x="1.0100447"
+       y="0.48586816"
+       rx="0.3698943"
+       ry="0.27197802" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.89855077;fill:#88aa00;fill-opacity:0.38547489;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter12948)"
+       id="path5595"
+       sodipodi:cx="121.20536"
+       sodipodi:cy="66.169083"
+       sodipodi:rx="69.693077"
+       sodipodi:ry="28.786272"
+       d="M 190.89844 66.169083 A 69.693077 28.786272 0 1 1  51.512283,66.169083 A 69.693077 28.786272 0 1 1  190.89844 66.169083 z"
+       transform="matrix(1.5726156,-0.4561778,0.5534807,1.2385285,26.396847,48.820993)" />
+    <image
+       y="2.4335871"
+       x="11.361603"
+       id="image2189"
+       height="143.91992"
+       width="85.028069"
+       sodipodi:absref="C:\Documents and Settings\stefy\Desktop\reli\cruz.png"
+       xlink:href="cruz.png" />
+    <g
+       id="g8939"
+       transform="matrix(0.835113,0,0,0.835113,22.581973,-10.807944)">
+      <text
+         transform="matrix(0.6853384,0,0,1.4591331,-68.829241,19.612723)"
+         id="text2175"
+         y="76.718918"
+         x="243.11234"
+         style="font-size:54.02072144px;font-style:normal;font-weight:normal;opacity:0.69434791;fill:#24221c;fill-opacity:0.81005584;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter8922);font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="76.718918"
+           x="243.11234"
+           id="tspan2177"
+           sodipodi:role="line">Parroquia Cristo Rey</tspan></text>
+      <text
+         transform="scale(0.6853384,1.4591331)"
+         id="text7893"
+         y="89.959869"
+         x="146.46957"
+         style="font-size:54.02072144px;font-style:normal;font-weight:normal;fill:#005500;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="89.959869"
+           x="146.46957"
+           id="tspan7895"
+           sodipodi:role="line">Parroquia Cristo Rey</tspan></text>
+    </g>
+    <path
+       style="opacity:0.69434791;fill:#dde9af;fill-opacity:0.81005584;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 675.68384,-1.0011161 C 665.97815,5.4042307 656.38101,12.368762 647.0398,19.862619 C 595.99911,60.809304 563.75208,108.25281 555.95273,147.52662 L 802.19907,147.52662 C 802.35852,147.52662 802.46652,147.42454 802.46655,147.27386 L 802.46655,-0.7253839 C 802.46655,-0.87605867 802.35852,-1.0011161 802.19907,-1.0011161 L 675.68384,-1.0011161 z "
+       id="rect8928" />
+    <image
+       y="4.5766931"
+       x="678.95239"
+       id="image7890"
+       height="142.33511"
+       width="109.14487"
+       sodipodi:absref="C:\Documents and Settings\stefy\Desktop\reli\cristo1.png"
+       xlink:href="cristo1.png" />
+    <rect
+       style="opacity:0.69434791;fill:#e09d55;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8937"
+       width="805.00568"
+       height="2.0200894"
+       x="-0.96987367"
+       y="146.82724"
+       rx="0.36989433"
+       ry="0.36989427" />
+    <image
+       xlink:href="paloma.png"
+       sodipodi:absref="C:\Documents and Settings\stefy\Desktop\reli\paloma.png"
+       width="151.63266"
+       height="62.879276"
+       id="image14096"
+       x="473.14728"
+       y="22.049755"
+       style="opacity:0.36714974" />
+    <image
+       y="30.622765"
+       x="485.14948"
+       id="image14093"
+       height="41.446751"
+       width="122.48443"
+       sodipodi:absref="C:\Documents and Settings\stefy\Desktop\reli\paloma.png"
+       xlink:href="paloma.png" />
+  </g>
+</svg>

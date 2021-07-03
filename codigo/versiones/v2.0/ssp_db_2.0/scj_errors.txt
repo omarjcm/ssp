@@ -1,0 +1,996 @@
+                              +-----------------+
+                              |   Stack Trace   |
+                              +-----------------+
+
+Current thread: AWT-EventQueue-0
+java.lang.NullPointerException
+	at com.sybase.central.viewer.SCMultiList.clear(SCMultiList.java:921)
+	at com.sybase.central.viewer.DetailsChart$LegendArea.releaseResources(DetailsChart.java:707)
+	at com.sybase.central.viewer.DetailsChart.releaseAllResources(DetailsChart.java:130)
+	at com.sybase.central.viewer.ContentPane.releaseResources(ContentPane.java:752)
+	at com.sybase.central.viewer.MainPanel.releaseResources(MainPanel.java:702)
+	at com.sybase.central.viewer.ViewerManager.releaseResources(ViewerManager.java:846)
+	at com.sybase.central.viewer.Viewer.releaseResources(Viewer.java:246)
+	at com.sybase.central.viewer.Viewer.handleExit(Viewer.java:231)
+	at com.sybase.central.viewer.Viewer.windowClosing(Viewer.java:275)
+	at java.awt.AWTEventMulticaster.windowClosing(Unknown Source)
+	at java.awt.Window.processWindowEvent(Unknown Source)
+	at javax.swing.JFrame.processWindowEvent(Unknown Source)
+	at java.awt.Window.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+
+
+                             +--------------------+
+                             |   Sybase Central   |
+                             +--------------------+
+
+Version: 4.2.0.1987
+
+
+                               +---------------+
+                               |   Classpath   |
+                               +---------------+
+
+C:\Archivos de programa\Sybase\Shared\Sybase Central 4.2\sybasecentral.jar
+    Timestamp=2003-07-24 14:52:58.0
+    Length=553773
+
+C:\Archivos de programa\Sybase\Shared\java\jsyblib14.jar
+    Timestamp=2003-07-24 14:49:02.0
+    Length=156102
+
+C:\Archivos de programa\Sybase\Shared\java\HelpManager11.jar
+    Timestamp=2003-07-24 14:49:40.0
+    Length=53658
+
+C:\Archivos de programa\Sybase\Shared\java\SCEditor14.jar
+    Timestamp=2003-07-24 14:50:36.0
+    Length=322146
+
+C:\Archivos de programa\Sybase\Shared\Sun\JavaHelp-1_1\jh.jar
+    Timestamp=2002-06-24 11:36:00.0
+    Length=347246
+
+C:\Archivos de programa\Sybase\Shared\Sybase Central 4.2\jcchart400K.jar
+    Timestamp=2003-03-31 12:52:38.0
+    Length=1060404
+
+
+
+                                +-------------+
+                                |   Java VM   |
+                                +-------------+
+
+Total memory: 14688256
+Free memory: 8277104
+System properties:
+    asa.location=C:\Archivos de programa\Sybase\SQL Anywhere 9\
+    awt.toolkit=sun.awt.windows.WToolkit
+    com.sybase.util.FastLoader=1
+    file.encoding=Cp1252
+    file.encoding.pkg=sun.io
+    file.separator=\
+    isql.helpFolder=C:\Archivos de programa\Sybase\SQL Anywhere 9\java\
+    java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+    java.awt.printerjob=sun.awt.windows.WPrinterJob
+    java.class.path=C:\ARCHIV~1\Sybase\Shared\SYBASE~1.2\SYBASE~1.JAR;C:\ARCHIV~1\Sybase\Shared\java\JSYBLI~1.JAR;C:\ARCHIV~1\Sybase\Shared\java\HELPMA~1.JAR;C:\ARCHIV~1\Sybase\Shared\java\SCEDIT~1.JAR;C:\ARCHIV~1\Sybase\Shared\sun\JAVAHE~1\jh.jar;C:\ARCHIV~1\Sybase\Shared\SYBASE~1.2\JCCHAR~1.JAR;
+    java.class.version=48.0
+    java.endorsed.dirs=C:\Archivos de programa\Sybase\Shared\sun\jre141\lib\endorsed
+    java.ext.dirs=C:\Archivos de programa\Sybase\Shared\sun\jre141\lib\ext
+    java.home=C:\Archivos de programa\Sybase\Shared\sun\jre141
+    java.io.tmpdir=C:\DOCUME~1\GUILLE~1\CONFIG~1\Temp\
+    java.library.path=C:\Archivos de programa\Sybase\Shared\Sybase Central 4.2;.;C:\WINDOWS\system32;C:\WINDOWS;C:\Archivos de programa\Sybase\Shared\sun\jre141\bin;D:\Archivos de programa temporal\Microsoft.NET\FrameworkSDK\Bin\;C:\Archivos de programa\Microsoft Visual Studio .NET\Common7\IDE\;C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705\;C:\Archivos de programa\Microsoft Visual Studio .NET\Vc7\bin\;D:\Compilers\ruby\Tcl\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;D:C:\Archivos de programa\Microsoft SQL Server\80\Tools\Binn\;c:\Archivos de programa\Microsoft SQL Server\90\Tools\binn\;C:\Archivos de programa\K-Lite Codec Pack\QuickTime\QTSystem\;C:\Archivos de programa\Archivos comunes\Autodesk Shared\;C:\Archivos de programa\Autodesk\backburner\;C:\Archivos de programa\Sybase\SQL Anywhere 9\win32;C:\Archivos de programa\Sybase\Shared\win32;C:\Archivos de programa\Sybase\SQL Anywhere 9\drivers;C:\Archivos de programa\Sybase\Shared\Sybase Central 4.2;;C:\BC4\BIN;
+    java.runtime.name=Java(TM) 2 Runtime Environment, Standard Edition
+    java.runtime.version=1.4.1_02-b06
+    java.specification.name=Java Platform API Specification
+    java.specification.vendor=Sun Microsystems Inc.
+    java.specification.version=1.4
+    java.util.prefs.PreferencesFactory=java.util.prefs.WindowsPreferencesFactory
+    java.vendor=Sun Microsystems Inc.
+    java.vendor.url=http://java.sun.com/
+    java.vendor.url.bug=http://java.sun.com/cgi-bin/bugreport.cgi
+    java.version=1.4.1_02
+    java.vm.info=mixed mode
+    java.vm.name=Java HotSpot(TM) Client VM
+    java.vm.specification.name=Java Virtual Machine Specification
+    java.vm.specification.vendor=Sun Microsystems Inc.
+    java.vm.specification.version=1.0
+    java.vm.vendor=Sun Microsystems Inc.
+    java.vm.version=1.4.1_02-b06
+    line.separator=
+
+    os.arch=x86
+    os.name=Windows XP
+    os.version=5.1
+    path.separator=;
+    sun.arch.data.model=32
+    sun.awt.exception.handler=com.sybase.util.ExceptionHandler
+    sun.boot.class.path=C:\Archivos de programa\Sybase\Shared\sun\jre141\lib\rt.jar;C:\Archivos de programa\Sybase\Shared\sun\jre141\lib\i18n.jar;C:\Archivos de programa\Sybase\Shared\sun\jre141\lib\sunrsasign.jar;C:\Archivos de programa\Sybase\Shared\sun\jre141\lib\jsse.jar;C:\Archivos de programa\Sybase\Shared\sun\jre141\lib\jce.jar;C:\Archivos de programa\Sybase\Shared\sun\jre141\lib\charsets.jar;C:\Archivos de programa\Sybase\Shared\sun\jre141\classes
+    sun.boot.library.path=C:\Archivos de programa\Sybase\Shared\sun\jre141\bin
+    sun.cpu.endian=little
+    sun.cpu.isalist=pentium i486 i386
+    sun.io.unicode.encoding=UnicodeLittle
+    sun.java2d.fontpath=
+    sun.os.patch.level=Service Pack 2
+    sybase.jsyblib.dll.location=C:\ARCHIV~1\Sybase\Shared\win32\
+    user.country=EC
+    user.dir=C:\Documents and Settings\guillermo\Escritorio\SQL Anywhere 9
+    user.home=C:\Documents and Settings\guillermo
+    user.language=es
+    user.name=guillermo
+    user.timezone=America/Bogota
+    user.variant=
+
+
+                             +-------------------+
+                             |   Java Packages   |
+                             +-------------------+
+
+Package: COM.rsa.asn1
+    Implementation title: null
+    Implementation vendor: Sun Microsystems, Inc.
+    Implementation version: 1.4.1
+    Specification title: null
+    Specification vendor: Sun Microsystems, Inc.
+    Specification version: 1.4
+
+Package: COM.rsa.jsafe
+    Implementation title: null
+    Implementation vendor: Sun Microsystems, Inc.
+    Implementation version: 1.4.1
+    Specification title: null
+    Specification vendor: Sun Microsystems, Inc.
+    Specification version: 1.4
+
+Package: com.klg.jclass.chart
+    Implementation title: com.klg.jclass.chart 
+    Implementation vendor: KL Group Inc. 
+    Implementation version: 4.0.0 
+    Specification title: JClass Chart
+    Specification vendor: KL Group Inc. 
+    Specification version: 4.0 
+
+Package: com.klg.jclass.chart.resources
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: com.klg.jclass.util.swing
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: com.sun.java.help.impl
+    Implementation title: null
+    Implementation vendor: Sun Microsystems, Inc 
+    Implementation version: 1.1.3
+    Specification title: null
+    Specification vendor: Sun Microsystems, Inc 
+    Specification version: 1.0 
+
+Package: com.sun.java.swing.plaf.windows
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: com.sun.net.ssl.internal.ssl
+    Implementation title: null
+    Implementation vendor: Sun Microsystems, Inc.
+    Implementation version: 1.4.1
+    Specification title: null
+    Specification vendor: Sun Microsystems, Inc.
+    Specification version: 1.4
+
+Package: com.sun.rsajca
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: com.sybase.central
+    Implementation title: Sybase Central
+    Implementation vendor: Sybase, Inc.
+    Implementation version: 4.2.0.1987
+    Specification title: Sybase Central
+    Specification vendor: Sybase, Inc.
+    Specification version: 4.2.0.1987
+
+Package: com.sybase.central.editor
+    Implementation title: Sybase Central Editor
+    Implementation vendor: Sybase, Inc.
+    Implementation version: 4.2.0.1904
+    Specification title: Sybase Central Editor
+    Specification vendor: Sybase, Inc.
+    Specification version: 4.2.0.1904
+
+Package: com.sybase.central.lang
+    Implementation title: Sybase Central
+    Implementation vendor: Sybase, Inc.
+    Implementation version: 4.2.0.1987
+    Specification title: Sybase Central
+    Specification vendor: Sybase, Inc.
+    Specification version: 4.2.0.1987
+
+Package: com.sybase.central.viewer
+    Implementation title: Sybase Central
+    Implementation vendor: Sybase, Inc.
+    Implementation version: 4.2.0.1987
+    Specification title: Sybase Central
+    Specification vendor: Sybase, Inc.
+    Specification version: 4.2.0.1987
+
+Package: com.sybase.customization
+    Implementation title: Application-Independent Java Utility Library
+    Implementation vendor: Sybase, Inc.
+    Implementation version: null
+    Specification title: Application-Independent Java Utility Library
+    Specification vendor: Sybase, Inc.
+    Specification version: null
+
+Package: com.sybase.helpManager
+    Implementation title: HelpManager classes
+    Implementation vendor: Sybase, Inc.
+    Implementation version: 11
+    Specification title: HelpManager classes
+    Specification vendor: Sybase, Inc.
+    Specification version: 11
+
+Package: com.sybase.util
+    Implementation title: Application-Independent Java Utility Library
+    Implementation vendor: Sybase, Inc.
+    Implementation version: null
+    Specification title: Application-Independent Java Utility Library
+    Specification vendor: Sybase, Inc.
+    Specification version: null
+
+Package: com.sybase.util.win32
+    Implementation title: Application-Independent Java Utility Library
+    Implementation vendor: Sybase, Inc.
+    Implementation version: null
+    Specification title: Application-Independent Java Utility Library
+    Specification vendor: Sybase, Inc.
+    Specification version: null
+
+Package: java.applet
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.color
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.datatransfer
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.dnd
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.dnd.peer
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.event
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.font
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.geom
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.im
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.im.spi
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.image
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.peer
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.awt.print
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.beans
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.io
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.lang
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.lang.ref
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.lang.reflect
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.math
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.net
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.nio
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.nio.charset
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.nio.charset.spi
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.rmi
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.security
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.security.cert
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.security.interfaces
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.security.spec
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.sql
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.text
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.util
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.util.jar
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.util.logging
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.util.prefs
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.util.regex
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: java.util.zip
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.accessibility
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.help
+    Implementation title: null
+    Implementation vendor: Sun Microsystems, Inc 
+    Implementation version: 1.1.3
+    Specification title: null
+    Specification vendor: Sun Microsystems, Inc 
+    Specification version: 1.0 
+
+Package: javax.help.event
+    Implementation title: null
+    Implementation vendor: Sun Microsystems, Inc 
+    Implementation version: 1.1.3
+    Specification title: null
+    Specification vendor: Sun Microsystems, Inc 
+    Specification version: 1.0 
+
+Package: javax.help.plaf
+    Implementation title: null
+    Implementation vendor: Sun Microsystems, Inc 
+    Implementation version: 1.1.3
+    Specification title: null
+    Specification vendor: Sun Microsystems, Inc 
+    Specification version: 1.0 
+
+Package: javax.help.plaf.basic
+    Implementation title: null
+    Implementation vendor: Sun Microsystems, Inc 
+    Implementation version: 1.1.3
+    Specification title: null
+    Specification vendor: Sun Microsystems, Inc 
+    Specification version: 1.0 
+
+Package: javax.help.resources
+    Implementation title: null
+    Implementation vendor: Sun Microsystems, Inc 
+    Implementation version: 1.1.3
+    Specification title: null
+    Specification vendor: Sun Microsystems, Inc 
+    Specification version: 1.0 
+
+Package: javax.security.auth.x500
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.border
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.event
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.filechooser
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.plaf
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.plaf.basic
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.table
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.text
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.text.html
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.text.html.parser
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.tree
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: javax.swing.undo
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.awt
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.awt.color
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.awt.datatransfer
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.awt.dnd
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.awt.font
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.awt.im
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.awt.image
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.awt.shell
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.awt.windows
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.beans.infos
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.dc.path
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.dc.pr
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.io
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.java2d
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.java2d.loops
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.java2d.pipe
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.misc
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.net
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.net.spi.nameservice
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.net.www
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.net.www.protocol.file
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.net.www.protocol.jar
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.nio.cs
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.nio.cs.ext
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.reflect
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.security.action
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.security.jgss
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.security.pkcs
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.security.provider
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.security.util
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.security.x509
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.text
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.text.resources
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+Package: sun.util.calendar
+    Implementation title: null
+    Implementation vendor: null
+    Implementation version: null
+    Specification title: null
+    Specification vendor: null
+    Specification version: null
+
+
+

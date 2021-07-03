@@ -1,0 +1,29 @@
+/* CSS Document */
+
+input {
+	display: block;
+	width: 175px;
+	float: left;
+	margin-bottom: 10px;
+}
+
+label {
+	display: block;
+	text-align: right;
+	float: left;
+	width: 75px;
+	padding-right: 20px;
+}
+
+.checkbox {
+	width: 1em;
+}
+
+br {
+	clear: left;
+} 
+
+.buttonSubmit {
+	width: 75px;
+	margin-left: 95px;
+}

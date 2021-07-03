@@ -1,0 +1,27 @@
+15/06/2007
+ingreso de matrimonio por interfaz
+hora inicio	00:29
+hora fin	02:07
+hasta el metodo ingresarMatrimonio (pero no esta probada)
+
+/*********************************************************************************/
+
+19/06/2007
+prueba del metodo ingresarMatrimonio
+prueba general del ingreso de matrimonio
+hora inicio	21:30
+hora fin	00:27
+
+prueba del ingreso de Bautizo
+(las paginas de ingreso exitoso y la de error estaban mal redireccionadas, tambien retor-
+naba false cuando debia retornar true)
+hora inicio	00:30
+hora fin	00:55
+
+ministro
+hora inicio	01:15
+hora fin	02:06
+
+/*********************************************************************************/
+
+21/06/2007

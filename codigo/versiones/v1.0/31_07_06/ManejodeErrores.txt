@@ -1,0 +1,46 @@
+ALTER procedure DBA.Usuario_Ingresar(@id_camaronera integer,@cedula char(10),@nombre char(20),@apellido char(20),@usuario char(20),@contrasena char(20),@id_usuario integer output,@mensaje char(50) output)
+--alter procedure DBA.Usuario_Ingresar(@id_camaronera integer,@cedula char(10),@nombre char(20),@apellido char(20),@direccion char(40),@usuario char(20),@contrasena char(20),@id_usuario integer output,@mensaje char(50) output)
+as
+begin
+  if(length(@usuario) < 3)
+    begin
+      select @mensaje='Error: Usuario mínimo 3 caracteres'
+      return
+    end
+  if(length(@contrasena) < 3)
+    begin
+      select @mensaje='Error: Contraseña mínimo 3 caracteres'
+      return
+    end
+  if(length(@cedula) <= 9)
+    begin
+      select @mensaje='Error: Cedula de 10 digitos'
+      return
+    end
+  declare @camar integer
+  select @camar=(select count(*) from CAMARONERA where ID_CAMARONERA = @id_camaronera)
+  if(@camar = 0)
+    begin
+      select @mensaje='Error Camaronera no Existente'
+      return
+    end
+  execute DBA.Usuario_Existe_Ingresar @usuario,@cedula,@id_usuario
+  if(@id_usuario is not null and @id_usuario <> 0)
+    begin
+      select @mensaje='Error Usuario ya Existente'
+      return
+    end
+  begin transaction
+  insert into USUARIO(ID_CAMARONERA_FK,CEDULA,NOMBRE,APELLIDO,DIRECCION,USUARIO,CONTRASENA) values(@id_camaronera,@cedula,@nombre,@apellido,@direccion,@usuario,@contrasena)
+  if(@@error <> 0)
+    begin
+      select @mensaje='Error en Base de Datos'
+      rollback transaction
+    end
+  else
+    begin
+      select @mensaje='okey'
+      commit transaction
+      execute DBA.Usuario_Existe @usuario,@cedula,@id_usuario
+    end
+end

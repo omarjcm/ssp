@@ -1,0 +1,20 @@
+Guillermo Pizarro
+
+- Validaciones correspondientes a los ingresos
+
+Integracion
+
+- ingreso de bautizo, primera comunion, confirmacion y matrimonio.
+
+Modificacion de
+
+- Buscar, Modificar, Anular Matrimonio
+- funcion consultar datos de matrimonio por nombres y apellidos. casar.java
+
+
+VANE
+
+- Integracion Buscar, anular y modificar de Primera Comunion, Confirmacion y Matrimonio
+- Modifcar y anular Usuario (todo)
+- Modificar la base de datos la tabla RegistroDescripcion, Descripcion.
+ en esto se paso varias noches de ...

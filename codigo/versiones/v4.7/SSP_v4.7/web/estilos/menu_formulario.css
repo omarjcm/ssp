@@ -1,0 +1,17 @@
+/* CSS Document */
+
+#titulo {
+	font-size: 12px;
+}
+
+#reg_eclesiastico, #parroquia, 
+#solicitante, #padres, 
+#padrinos, #reg_civil, 
+#txt_observacion {
+	vertical-align:middle;
+	position: absolute;
+	width:551px;
+	visibility: hidden;
+	height: 302px;
+	top: 278px;
+}

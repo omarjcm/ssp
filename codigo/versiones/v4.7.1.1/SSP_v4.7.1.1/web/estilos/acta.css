@@ -1,0 +1,69 @@
+/* CSS Document */
+
+#frame {
+	width: 600px;
+	height: 450px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#header {
+	margin: 10px;
+	width: 600px;
+	height: 93px;
+}
+
+#logo {
+	width: 232px;
+	height: 93px;
+	float:left;
+	vertical-align: middle;
+	background-image: url(../imagenes/logo_c.gif);
+}
+
+#titulo {
+	width: 368px;
+	height: 93px;
+	float: right;
+}
+
+#titulo_principal {
+	height: 70px;
+	font-size: 16px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	text-align: right;
+}
+
+#fecha {
+	height: 23px;
+	font-size: 13px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	text-align: right;
+	vertical-align: bottom;
+}
+
+#middle {
+	margin: 10px;
+	width: 600px;
+	height: 300px;
+	clear:both;
+}
+
+#columnLeft {
+	width: 150px;
+	height: 300px;
+	float:left;
+}
+
+#columnRight {
+	width: 450px;
+	height: 300px;
+	float:right;
+}
+
+#footer {
+	width: 600px;
+	height: 50px;
+	clear: both;
+
+}

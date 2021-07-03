@@ -1,0 +1,1 @@
+SSP está compilado en NetBeans 5.5, desarrollado por CoDeSOFTWARE.

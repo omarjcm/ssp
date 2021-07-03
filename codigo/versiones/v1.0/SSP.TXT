@@ -1,0 +1,24 @@
+go
+CREATE TABLE USUARIO (
+	id_usuario		char(50) NOT NULL,
+	clave			char(20) NOT NULL,
+	usuario			char(20) NOT NULL,
+	nombre			char(50) NOT NULL,
+	apellido		char(50) NOT NULL,
+	tipo_usuario	char(50) NULL,
+	cargo			char(20) NULL,
+	direccion		char(50) NULL,
+	telefono1		char(50) NULL,
+	telefono2		char(50) NULL,
+	FOREIGN KEY	id_ciudad REFERENCES CIUDAD(id_ciudad),
+	FOREIGN KEY	id_parroquia REFERENCES PARROQUIA(id_parroquia),
+	PRIMARY KEY (id_usuario)
+)
+
+INSERT INTO USUARIO(id_usuario, clave, usuario, nombre, apellido, tipo_usuario,
+					cargo, direccion, telefono1, telefono2, id_ciudad, id_parroquia)
+VALUES ( '12345', '2345', 'gpizarro', 'Guillermo', 'Pizarro', 'Administrador',
+		 NULL, 'La A entre la 42 y la 43', '2845844', NULL, 0001, 0001 )
+
+UPDATE USUARIO
+	SET id_usuario='23456' WHERE usuario='omarjcm'

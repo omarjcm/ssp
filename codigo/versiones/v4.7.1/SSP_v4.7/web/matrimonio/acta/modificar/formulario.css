@@ -1,0 +1,25 @@
+/* CSS Document */
+
+#buscar_por_nombre_apellido {
+	z-index: 0;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:455px;
+	visibility: hidden;
+	height: 192px;
+	top: 409px;
+	left: 264px;
+}
+
+#buscar_por_fecha {
+	z-index: 1;
+	padding: 5px;
+	vertical-align:middle;
+	position: absolute;
+	width:455px;
+	visibility: hidden;
+	height: 192px;
+	top: 409px;
+	left: 264px;
+}

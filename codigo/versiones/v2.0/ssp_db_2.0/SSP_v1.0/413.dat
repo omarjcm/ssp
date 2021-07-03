@@ -1,0 +1,378 @@
+1,'Stephanie Margarita','Flores Anzoategui',,'femenino','bautizado',1,1
+2,'Blanca','Anzoategui','37 y Vaca Galindo','femenino','madre',0,1
+3,'Rafael Gabriel','Flores Correa','37 y Vaca Galindo','masculino','padre',0,1
+4,'Estrella','Flores','37 y Vaca Galindo','femenino','madrina',0,1
+5,'Omar','Flores','37 y Vaca Galindo','masculino','padrino',0,1
+6,'Omar Guillermo','Pizarro Vásquez','40 y Callejon Parra','masculino','comulgado',49,1
+7,'angela','vasquez pico','43 y La A','femenino','madre',0,1
+8,'guillermo','pizarro chavez','43 y La A','masculino','padre',0,1
+9,'grace','rosado','46 y La A','femenino','madrina',0,1
+10,'segundo','rosado','46 y La A','masculino','padrino',0,1
+11,'Jessica','Armijos','Guasmo Sur','femenino','confirmado',1,1
+12,'ana','farez','Guasmo Sur','femenino','madre',0,1
+13,'Manuel','Armijos','Guasmo Sur','masculino','padre',0,1
+14,'rut','romero','6 de Marzo y Francisco de Marco','femenino','madrina',0,1
+15,'francisco','hidalgo','6 de Marzo y Francisco de Marco','masculino','padrino',0,1
+16,'vanessa','izquierdo','Villavicencio 1106 y San Martin','femenino','esposa',1,1
+17,'manuel','paredes','Villavicencio 1106 y San Martin','masculino','esposo',1,1
+18,'jessica','armijos','Guasmo Sur','femenino','madrina',1,1
+19,'pierre','villafuerte','Colina de la Alborada','masculino','padrino',1,1
+20,'fanny','yepez','Villavicencio 1106 y San Martin','femenino','madreNovia',1,1
+21,'alfredo','izquierdo','Villavicencio 1106 y San Martin','masculino','padreNovia',1,1
+22,'luna','vera','Sauces 9','femenino','madreNovio',1,1
+23,'ignacio','paredes','Sauces 9','masculino','padreNovio',1,1
+24,'enmanuel','palacios','31 y oriente','masculino','confirmado',1,1
+25,'patricia','perez','31 y oriente','femenino','madre',1,1
+26,'rafael','palacios','31 y oriente','masculino','padre',1,1
+27,'manuela','palacios','31 y oriente','masculino','confirmado',1,1
+28,'enmanuel','palacios','36 y la B','masculino','comulgado',2,2
+33,'tiburcia','rasado','','femenino','bautizada',1,1
+34,'tiburcia','rasado','','femenino','bautizada',1,1
+43,'josefa','solorzano','','femenino','madre',1,1
+57,'camila','rosero','','femenino','madre',1,1
+67,'Tom','Crusie','','masculino','padre',0,1
+76,'francisco','segura','','masculino','padre',0,1
+77,'martha','crespo','','femenino','madre',0,1
+78,'joe','caceres',,'masculino','padrino',0,1
+79,'july','montero',,'femenino','madrina',0,1
+109,'clark','kent','','masculino','padre',0,1
+110,'luisa','lane','','femenino','madre',0,1
+111,'lex','lutor','','masculino','padrino',0,1
+112,'lana','lane','','femenino','madrina',0,1
+113,'clark','kent','','masculino','padre',0,1
+114,'luisa','lane','','femenino','madre',0,1
+115,'lex','lutor','','masculino','padrino',0,1
+116,'lana','lane','','femenino','madrina',0,1
+117,'matin','velasquez','','masculino','padre',0,1
+118,'martina','zamora','','femenino','madre',0,1
+119,'totorio','morales','','masculino','padrino',0,1
+120,'clark','kent','','masculino','padre',0,1
+121,'lana','lane','','femenino','madre',0,1
+122,'let','luthor','','masculino','padrino',0,1
+123,'luisa','lane','','femenino','madrina',0,1
+124,'josefino','kent lane','','masculino','bautizado',1,1
+125,'pamelo','arcos','','masculino','padre',0,1
+126,'gabriela','paladines','','femenino','madre',0,1
+127,'jason','ornamenta','','masculino','padrino',0,1
+128,'jessenia','haro','','femenino','madrina',0,1
+129,'salserin','arcos paladines','','masculino','bautizado',1,1
+130,'hugo','armas','','masculino','padre',0,1
+131,'diana','gallegos','','femenino','madre',0,1
+132,'luis','brito','','masculino','padrino',0,1
+133,'diana','salome','','femenino','madrina',0,1
+134,'michela','montero carrere','','masculino','bautizado',1,1
+135,'alfonso','montero','','masculino','padre',0,1
+136,'mariana','carrere','','femenino','madre',0,1
+137,'luna','estrada pizarro','','femenino','bautizado',1,1
+138,'camilo','estrada','','masculino','padre',0,1
+139,'estrella','pizarro','','femenino','madre',0,1
+140,'leonel','luto','','masculino','padrino',0,1
+141,'leonela','cabezas','','femenino','madrina',0,1
+142,'mauri','figeroa pedra','','masculino','bautizado',1,1
+143,'diego','figeroa','','masculino','padre',0,1
+144,'patty','pedra','','femenino','madre',0,1
+145,'josefino','rugel','','masculino','padrino',0,1
+146,'xuxa','herrera izquierdo','','femenino','bautizado',1,1
+147,'hector','herrera','','masculino','padre',0,1
+148,'mafer','izquierdo','','femenino','madre',0,1
+149,'manuel','herrera','','masculino','padrino',0,1
+150,'isabel','pantoja','','femenino','madrina',0,1
+151,'mariela','viteri carmero','','femenino','bautizado',1,1
+152,'franco','viteri','','masculino','padre',0,1
+153,'betty','carmero','','femenino','madre',0,1
+154,'jesi','calvo','','masculino','padrino',0,1
+155,'carmen','redriguez','','femenino','madrina',0,1
+156,'stepp','urrutia issac','','femenino','bautizado',1,1
+157,'freddy','urrutia','','masculino','padre',0,1
+158,'barbara','issac','','femenino','madre',0,1
+159,'manuel','beltran','','masculino','padrino',0,1
+160,'camila','weel','','femenino','madrina',0,1
+161,'antonio','bandera termeria','','masculino','bautizado',1,1
+162,'antinio','bandera','','masculino','padre',0,1
+163,'susi','termeria','','femenino','madre',0,1
+164,'infante','vasquez','','masculino','padrino',0,1
+165,'lulu','zamora','','femenino','madrina',0,1
+166,'vare','mate poder','','femenino','bautizado',1,1
+167,'julian','mate','','masculino','padre',0,1
+168,'luz','poder','','femenino','madre',0,1
+169,'cristian','ramos','','masculino','padrino',0,1
+170,'belen','ramos','','femenino','madrina',0,1
+171,'daniela','icaza bustamante','','femenino','bautizado',1,1
+172,'daniel','icaza','','masculino','padre',0,1
+173,'mary','bustamante','','femenino','madre',0,1
+174,'tito','carrera','','masculino','padrino',0,1
+175,'tatiana','vera','','femenino','madrina',0,1
+176,'moises','fernandez tañon','','masculino','bautizado',1,1
+177,'noel','fernandez','','masculino','padre',0,1
+178,'toña','tañon','','femenino','madre',0,1
+179,'higor','naranjo','','masculino','padrino',0,1
+180,'olga','tañon','','femenino','madrina',0,1
+181,'javier','Pimentel Olivares','','femenino','bautizado',41,1
+182,'javier','Pimentel','','masculino','padre',0,1
+183,'Rosa','Olivares','','femenino','madre',0,1
+184,'carmelo','Hernadez','','masculino','padrino',0,1
+185,'Susana','Rivadeneira Zambrano','','femenino','bautizado',1,1
+186,'Joel','Rivadeneira','','masculino','padre',0,1
+187,'francesca','Zambrano','','femenino','madre',0,1
+188,'Lucio','Paladines','','masculino','padrino',0,1
+189,'Andres','Penachine Montero','','femenino','bautizado',1,1
+190,'Francesco','Penachine','','masculino','padre',0,1
+191,'Ninosca','Montero','','femenino','madre',0,1
+192,'Marcelo','Loancio','','masculino','padrino',0,1
+193,'Leonardo','De Caprio Paladi','','femenino','bautizado',1,1
+194,'Leonoro','De Caprio','','masculino','padre',0,1
+195,'Leonora','Paladi','','femenino','madre',0,1
+196,'Arnoldo','Suacheneger','','masculino','padrino',0,1
+197,'Kene','Reves Kidma','','femenino','bautizado',1,1
+198,'Bruce','Reves','','masculino','padre',0,1
+199,'Marget','Kidma','','femenino','madre',0,1
+200,'Gate','Halder','','masculino','padrino',0,1
+201,'John','Cleon Venegas','','femenino','bautizado',1,1
+202,'John','Cleon','','masculino','padre',0,1
+203,'Salmalea','Venegas','','femenino','madre',0,1
+204,'Jurado','Reeve','','masculino','padrino',0,1
+205,'Madelen','Pitt','','femenino','madrina',0,1
+206,'Fabricio','Echeverria Briones',,'masculino','bautizado',1,1
+207,'Fabricio','Echeverria','','masculino','padre',0,1
+208,'Lara','Briones','','femenino','madre',0,1
+209,'Gare','Castillo','','masculino','padrino',0,1
+210,'Katty','Del Castillo','','femenino','madrina',0,1
+211,'Chiquito','Naranjo Soledispa','','masculino','bautizado',12,1
+212,'chiquto','Naranjo','','masculino','padre',0,1
+213,'chita','Soledispa','','femenino','madre',0,1
+214,'Tarzan','Selva','','masculino','padrino',0,1
+215,'Jein','Misuri','','femenino','madrina',0,1
+216,'Jahir','Domenech Flores','','femenino','bautizado',3,1
+217,'Fernando','Domenech','','masculino','padre',0,1
+218,'Sonia','Flores','','femenino','madre',0,1
+219,'Pancho','Jacome','','masculino','padrino',0,1
+220,'Javier','Tulipan','','femenino','madrina',0,1
+221,'Gerardo','Mejia Pizarro','','masculino','bautizado',45,1
+222,'Gerardo','Mejia','','masculino','padre',0,1
+223,'Mildre','Pizarro','','femenino','madre',0,1
+224,'Marte','Lucas','','masculino','padrino',0,1
+225,'Venus','Samaniego','','femenino','madrina',0,1
+226,'Davicho','Salas Salas','','masculino','bautizado',1,1
+227,'Julio','Salas','','masculino','padre',0,1
+228,'Julia','Salas','','femenino','madre',0,1
+229,'Luis','Sánchez','','masculino','padrino',0,1
+230,'Luisa','Sánchez','','femenino','madrina',0,1
+231,'Dario Saul','Manzanero Salas','','femenino','bautizado',40,1
+232,'Segundo','Manzanero','','masculino','padre',0,1
+233,'Luzmila','Salas','','femenino','madre',0,1
+234,'David','Parrales','','masculino','padrino',0,1
+235,'Daniela','Romo','','femenino','madrina',0,1
+236,'Danny ','Arce Armendaris','','masculino','bautizado',1,1
+237,'Lucio','Arce','','masculino','padre',0,1
+238,'Lucia','Armendaris','','femenino','madre',0,1
+239,'Marcos','Vinicio','','masculino','padrino',0,1
+240,'Luzmila','Izquierdo','','femenino','madrina',0,1
+241,'Guillermo','Pizarro Vasquez','','femenino','bautizado',1,1
+242,'Angela','Vásquez','','femenino','madre',0,1
+243,'Vanessa','Izquerdo','','femenino','bautizado',1,1
+244,'David','Andrade','','masculino','padre',0,1
+245,'Lucía','Armijos','','femenino','madre',0,1
+246,'Saul','Benavides','','masculino','padrino',0,1
+247,'Paula','Sanchez','','femenino','madrina',0,1
+248,'David','Manso Manzanero','','masculino','bautizado',1,1
+249,'Daniel','Manso','','masculino','padre',0,1
+250,'Daniela','Manzanero','','femenino','madre',0,1
+251,'Tercero','Jurado','','masculino','padrino',0,1
+252,'Isset','Segovia','','femenino','madrina',0,1
+253,'Juan','Larrea Samaniego','','masculino','bautizado',12,1
+254,'Lucho','Larrea','','masculino','padre',0,1
+255,'Maria','Samaniego','','femenino','madre',0,1
+256,'Sandro','Paz','','masculino','padrino',0,1
+257,'Carlota','Chavez','','femenino','madrina',0,1
+258,'Eduardo','Pinargote Suarez',,'masculino','bautizado',1,1
+259,'Eduardo','Pinargote','','masculino','padre',0,1
+260,'Marisol','Suarez','','femenino','madre',0,1
+261,'Mario','Casas','','masculino','padrino',0,1
+262,'Paula','Beltrán','','femenino','madrina',0,1
+263,'Xavier Gabriel','Samaniego Diarte',,'masculino','confirmado',1,1
+264,'Saulo','Samaniego','','masculino','padre',0,1
+265,'Martha','Diarte','','femenino','madre',0,1
+266,'Rumiñahui','Cascasa','','masculino','padrino',0,1
+267,'Ruth','Vásquez','','femenino','madrina',0,1
+268,'David','Soledispa Chavez','','femenino','comulgado',0,1
+269,'Gonzalo','Soledispa','','masculino','padre',0,1
+270,'Luisa','Chavez','','femenino','madre',0,1
+271,'Luis','Arias','','masculino','padrino',0,1
+272,'Maria','Ariel','','femenino','madrina',0,1
+273,'Darla','Muñoz Zuñiga','','femenino','comulgado',1,1
+274,'José','Muñoz','','masculino','padre',0,1
+275,'Sofía','Zuñiga','','femenino','madre',0,1
+276,'Carlos','Suárez','','masculino','padrino',0,1
+277,'Carla','Mana','','femenino','madrina',0,1
+278,'Joselo Armando','Coello Paredes','','masculino','comulgado',33,1
+279,'Guiller','Freire Vera','','masculino','padre',0,1
+280,'Ariel','Moscoso Peñasco','','femenino','madre',0,1
+281,'Channe','Rivera','','masculino','padrino',0,1
+282,'Jessy','Morales','','femenino','madrina',0,1
+283,'Pamelo Ricardo','Naranjo Zambrano','','masculino','comulgado',2,1
+284,'Robert','Naranjo','','masculino','padre',0,1
+285,'Juleta','Zambrano','','femenino','madre',0,1
+286,'Ramon','Rosero','','masculino','padrino',0,1
+287,'Ramona','ximenez','','femenino','madrina',0,1
+288,'Alfredo','Cañizares','','masculino','comulgado',2,1
+289,'javier','cañizarez','','masculino','padre',0,1
+290,'mary','Toapanta','','femenino','madre',0,1
+291,'omar','izacc','','masculino','padrino',0,1
+292,'josefina','pedretarne','','femenino','madrina',0,1
+293,'Javier Fernando','Calderon Vera','','masculino','bautizado',1,1
+294,'Haro','Calderon','','masculino','padre',0,1
+295,'Mayra','Vera','','femenino','madre',0,1
+296,'samuel','ramirez','','masculino','padrino',0,1
+297,'vanessa','derecho','','femenino','madrina',0,1
+298,'Leonardo','Cercado Armijos','','masculino','bautizado',1,1
+299,'Geovanny','Cercado','','masculino','padre',0,1
+300,'Mónica','Armijos','','femenino','madre',0,1
+301,'Rodolfo','Tapia','','masculino','padrino',0,1
+302,'Ana','González','','femenino','madrina',0,1
+303,'Stephany','Flores Anzoategui','','femenino','confirmado',1,1
+304,'David','Flores','','masculino','padre',0,1
+305,'Laura','Anzoategui','','femenino','madre',0,1
+306,'Danilo','Montero','','masculino','padrino',0,1
+307,'Daniela','Montesdeoca','','femenino','madrina',0,1
+308,'Laura Andrea','Samaniego Zapata','','femenino','confirmado',1,1
+309,'Andrés','Samaniego','','masculino','padre',0,1
+310,'Laura','Zapata','','femenino','madre',0,1
+311,'Daniela','Matamoros','','femenino','madrina',0,1
+312,'Tifany Lulu','Pancracia Gualotuña','','femenino','confirmado',1,1
+313,'Luis','Pancracia','','masculino','padre',0,1
+314,'Lulu','Gualotuña','','femenino','madre',0,1
+315,'David','Hinojosa','','masculino','padrino',0,1
+316,'Sara','Rios','','femenino','madrina',0,1
+317,'Martin','Borbor Vásquez','','masculino','comulgado',12,1
+318,'Oswaldo','Borbor','','masculino','padre',0,1
+319,'Yolanda','Vásquez','','femenino','madre',0,1
+320,'Daniel','Luzuriaga','','masculino','padrino',0,1
+321,'Daniel','Luzuriaga Calle','','masculino','comulgado',33,1
+322,'David','Luzuriaga','','masculino','padre',0,1
+323,'Maria','Calle','','femenino','madre',0,1
+324,'Manuel','Borobor','','masculino','padrino',0,1
+325,'Gabriela','Mistral','','femenino','madrina',0,1
+326,'Manuel','Borbor','','masculino','padrino',0,1
+327,'susi','Bustamante Ortega','','femenino','comulgado',3,1
+328,'Josue','Bustamante','','masculino','padre',0,1
+329,'Marina','Ortega','','femenino','madre',0,1
+330,'Miguel','Rivera','','masculino','padrino',0,1
+331,'Sonia','Solorzano','','femenino','madrina',0,1
+332,'Marina','Bustamante Ortega','','femenino','comulgado',41,1
+333,'Moreno','Bustamante','','masculino','padre',0,1
+334,'Pedro','Sarmiento','','masculino','padrino',0,1
+335,'Ximena','Jimenez','','femenino','madrina',0,1
+336,'Juan Gabriel','Sarango García','','femenino','comulgado',1,1
+337,'Juan','Pernales','','masculino','comulgado',1,1
+338,'Daniel','Benalcazar Monserrrat','','femenino','comulgado',1,1
+339,'Daniel ','Benalcazar','','masculino','padre',0,1
+340,'Lupe','Monserrrat','','femenino','madre',0,1
+341,'David','Jurado','','masculino','padrino',0,1
+342,'Carla','Abad','','femenino','madrina',0,1
+343,'David','Jurado García','','masculino','comulgado',1,1
+344,'Daniel','Jurado','','masculino','padre',0,1
+345,'Lucía','García','','femenino','madre',0,1
+346,'Danielo','Matamorors','','masculino','padrino',0,1
+347,'Mariuxi','García','','femenino','madrina',0,1
+348,'cristian','Issac cordero','','masculino','comulgado',27,1
+349,'Ismael','Issac','','masculino','padre',0,1
+350,'Marlene','Cordero','','femenino','madre',0,1
+351,'Manuel','Pasmiño','','masculino','padrino',0,1
+352,'Gabriela','River','','femenino','madrina',0,1
+353,'Marcos','Mayorga Reinoso','','masculino','comulgado',3,1
+354,'Octavio','Mayorga','','masculino','padre',0,1
+355,'Fernanda','Reinoso','','femenino','madre',0,1
+356,'Steven','Bener','','masculino','padrino',0,1
+357,'Sofia','Lorenz','','femenino','madrina',0,1
+358,'Lennin','Maquilon Venezuela','','femenino','bautizado',33,1
+359,'Juan Jose','Maquilon','','masculino','padre',0,1
+360,'Maria','Venezuela','','femenino','madre',0,1
+361,'Fabricio','','','masculino','padrino',0,1
+362,'','','','femenino','madrina',0,1
+363,'Fabricio','Iturralde','','masculino','padrino',0,1
+364,'Jessenia','Pastiuzaca','','femenino','madrina',0,1
+365,'Arcecio','Zuñiga Monserrat','','masculino','esposo',0,1
+366,'Panchita','Ronquillo Rugel','','femenino','esposa',0,1
+367,'Aro','Zuñiga','','masculino','padreNovio',0,1
+368,'Mose','Monserrat','','femenino','madreNovio',0,1
+369,'Wiston','Ronquillo','','masculino','padreNovia',0,1
+370,'Graciela','Rugel','','femenino','madreNovia',0,1
+371,'Eulogio','Chonillo Baldez','','masculino','padrino',0,1
+372,'Anatolia','Rodriguez Zapata','','femenino','madrina',0,1
+373,'Christian','Zuñiga Ronquillo','','masculino','bautizado',3,1
+374,'Crispin','Anzoategui','','masculino','padrino',0,1
+375,'Blanca','Rugel','','femenino','madrina',0,1
+376,'Yamilet','Flores Montolla','','femenino','bautizado',1,1
+377,'Eduardo','Flores','','masculino','padre',0,1
+378,'Wendy','Montolla','','femenino','madre',0,1
+379,'Rafael','Flores','','masculino','padrino',0,1
+380,'Edu','Flores Montolla','37ava y Vaca Galindo','masculino','comulgado',2,1
+381,'Bella','Torres','','femenino','madrina',0,1
+382,'Maria Belen','Flores Pinos','','femenino','confirmado',1,1
+383,'Raul','Flores','','masculino','padre',0,1
+384,'Marlene','Pinos','','femenino','madre',0,1
+385,'Eduador','Flores','','masculino','padrino',0,1
+386,'Sandy Sonya','Segura Anton','','femenino','confirmado',1,1
+387,'David','Segura','','masculino','padre',0,1
+388,'Selma','Anton','','femenino','madre',0,1
+389,'David','Trujillo','','masculino','padrino',0,1
+390,'Mónica','Morán','','femenino','madrina',0,1
+391,'David Sergio','Jurado Castello','','masculino','confirmado',1,1
+392,'Daniels','Jurado','','masculino','padre',0,1
+393,'Sarah','Castello','','femenino','madre',0,1
+394,'William','Anderson','','masculino','padrino',0,1
+395,'Samantha','Brown','','femenino','madrina',0,1
+396,'Hugh','Grant Samuels','','masculino','esposo',0,1
+397,'Sarah','Brigthman Brown','','femenino','esposa',0,1
+398,'John','Grant','','masculino','padreNovio',0,1
+399,'Lili','Samuels','','femenino','madreNovio',0,1
+400,'Matt','Brigthman','','masculino','padreNovia',0,1
+401,'Sofy','Brown','','femenino','madreNovia',0,1
+402,'Lucho','Gavica','','masculino','padrino',0,1
+403,'Soyla','Vaca','','femenino','madrina',0,1
+404,'Dario Xavier','Pizarro Vásquez','','masculino','bautizado',1,1
+405,'Guillermo','Pizarro','','masculino','padre',0,1
+406,'Angela Eugenia','Vásquez','','femenino','madre',0,1
+407,'Marlon','Saltos','','masculino','padrino',0,1
+408,'Samantha','Darrins','','femenino','madrina',0,1
+409,'Marisol','Villacrés Pincay','','femenino','bautizado',1,1
+410,'Dario','Villacres','','masculino','padre',0,1
+411,'Marisol','Pincay','','femenino','madre',0,1
+412,'Luisa','Lem','','femenino','madrina',0,1
+413,'Marlon','Anton Segovia','','femenino','bautizado',30,1
+414,'Danilo','Anton','','masculino','padre',0,1
+415,'Daniela','Segovia','','femenino','madre',0,1
+416,'Martín','Borbor','','masculino','padrino',0,1
+417,'Leona','Salatiel','','femenino','madrina',0,1
+418,'Alex','Ordoñez','','masculino','esposo',0,2
+419,'Rut','España','','femenino','esposa',0,2
+420,'Gonzalo','Ordoñez','','masculino','padreNovio',0,2
+421,'Victoria','Casanova','','femenino','madreNovio',0,2
+422,'Fabricio','España','','masculino','padreNovia',0,2
+423,'Fanny','Pelaez','','femenino','madreNovia',0,2
+424,'Anabel','Gutierrez','','femenino','madrina',0,2
+425,'Pepita','Pizarro','','femenino','bautizado',1,2
+426,'Pedro','Pizarro','','masculino','padre',0,2
+427,'Carmen','Salas','','femenino','madre',0,2
+428,'Jorge','Mejia','','masculino','padrino',0,2
+429,'Sonia','Altamirano','','femenino','madrina',0,2
+430,'Evelyn','Cabrera','40 y la a','femenino','comulgado',1,2
+431,'Ecuador','Cabrera','','masculino','padre',0,2
+432,'Alexandra','Rivadeneira','','femenino','madre',0,2
+433,'Roberto','Lopez','','masculino','padrino',0,2
+434,'Jessica','Vergara','','femenino','madrina',0,2
+435,'Maritza','Serrano','','femenino','confirmado',2,2
+436,'Sergio','Serrano','','masculino','padre',0,2
+437,'Amanda','Torres','','femenino','madre',0,2
+438,'Michael','Serrano','','masculino','padrino',0,2
+439,'Micaela','Barahona','','femenino','madrina',0,2
+440,'Maritza','Lopez','','femenino','confirmado',2,1
+441,'Fernando','Lopez','','masculino','padre',0,1
+442,'Marta','Torres','','femenino','madre',0,1
+443,'Alonso','Vera','','masculino','padrino',0,1
+444,'Diana','Mora','','femenino','madrina',0,1
+445,'Anabel','Gonzalez','','femenino','confirmado',33,1
+446,'Pedro','Gonzalez','','masculino','padre',0,1
+447,'Fernanda','Estupiñan','','femenino','madre',0,1
+448,'Mario','Escarlata','','masculino','padrino',0,1
+449,'Sara','Trujillo','','femenino','madrina',0,1
