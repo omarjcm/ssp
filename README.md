@@ -1,13 +1,10 @@
 # Sistema de Servicios Parroquiales (SSP)
 
-SSP estará compuesto de un módulo y una funcionalidad añadida: 
-
--	Módulo de documentación, y
--	Funcionalidad de contabilidad.
+SSP estará compuesto de un módulo de documentación que digitalizará las actas de los sacramentos que se encuentran registrados en los libros de la Parroquia.
 
 El Sistema de documentación es el encargado de manipular datos para presentar información detallada con respecto a las Actas de Bautismo, Primera Comunión, Confirmación y Matrimonio.
 
-La Funcionalidad de contabilidad constará de dos partes: una consistirá en registrar los ingresos y egresos de la Parroquia; y la otra, en la de generar reportes mensuales y anuales de los registros anteriores.
+## Equipo de Desarrollo
 
 Los miembros del equipo de desarrollo son:
 
